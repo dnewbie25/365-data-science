@@ -31,6 +31,18 @@ FROM
         left JOIN
     student_purchases purchase ON engage.student_id = purchase.student_id
 group by student_id
-having first_date_purchased >= first_date_watched
+having first_date_purchased is null or first_date_purchased >= first_date_watched
 );
+
+select * from free_to_conversion;
+
+-- 2nd part, get calculations
+
+SELECT 
+    ROUND(COUNT(first_date_purchased) / COUNT(first_date_watched),
+            2) AS convertion_rate,
+	round(sum(date_diff_reg_watch)/count(first_date_watched),2) as av_reg_watch,
+    round(sum(date_diff_watch_purch)/count(date_diff_watch_purch),2) as av_watch_purch
+FROM
+    free_to_conversion;
 
