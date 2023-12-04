@@ -15,46 +15,22 @@ CREATE TABLE free_to_conversion (
     date_diff_watch_purch INT DEFAULT NULL
 );
 
+-- Creating the subquery, 20255 total students obtained
 insert into free_to_conversion (
-SELECT distinct
-    info.student_id AS student_id,
-    info.date_registered AS date_registered,
-    engage.date_watched AS first_date_watched,
-    purchase.date_purchased AS first_date_purchased,
-    DATEDIFF(info.date_registered, 
-			engage.date_watched) AS date_diff_reg_watch,
-    DATEDIFF(engage.date_watched,
-            purchase.date_purchased) AS date_diff_watch_purch
-FROM
-    student_info info
-        INNER JOIN
-    student_engagement engage ON info.student_id = engage.student_id
-        INNER JOIN
-    student_purchases purchase ON engage.student_id = purchase.student_id);
-    
-    
--- opcion 2
-insert into free_to_conversion (
-SELECT distinct
+SELECT
     engage.student_id AS student_id,
     info.date_registered AS date_registered,
-    engage.date_watched AS first_date_watched,
-    purchase.date_purchased AS first_date_purchased,
-    DATEDIFF(info.date_registered, 
-			engage.date_watched) AS date_diff_reg_watch,
-    DATEDIFF(engage.date_watched,
-            purchase.date_purchased) AS date_diff_watch_purch
+    min(engage.date_watched) AS first_date_watched,
+    min(purchase.date_purchased) AS first_date_purchased,
+    DATEDIFF(min(engage.date_watched), info.date_registered) AS date_diff_reg_watch,
+    DATEDIFF(min(purchase.date_purchased), min(engage.date_watched)) AS date_diff_watch_purch
 FROM
     student_engagement engage
+        inner JOIN
+    student_info info ON engage.student_id = info.student_id
         left JOIN
     student_purchases purchase ON engage.student_id = purchase.student_id
-        INNER JOIN
-    student_info info ON info.student_id = purchase.student_id);
-    
-SELECT 
-    *
-FROM
-    free_to_conversion
-WHERE first_date_watched <= first_date_purchased;
+group by student_id
+having first_date_purchased >= first_date_watched
+);
 
-select * from student_purchases e inner join student_engagement p on e.student_id = p.student_id where e.date_purchased >= p.date_watched order by e.purchase_id;
