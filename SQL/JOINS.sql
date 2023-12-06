@@ -145,3 +145,4 @@ FROM
         dept_manager dm) as a
 
 ORDER BY -a.emp_no DESC;
+
