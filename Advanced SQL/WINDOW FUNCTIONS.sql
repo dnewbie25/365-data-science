@@ -19,3 +19,14 @@ from dept_manager dm inner join salaries s on dm.emp_no = s.emp_no;
 
 select dm.emp_no, dm.dept_no, s.from_date, s.salary, row_number() over (partition by emp_no order by salary asc) as row_num, row_number() over (partition by emp_no order by salary desc) as managaer_row_num
 from dept_manager dm inner join salaries s on dm.emp_no = s.emp_no;
+
+/*
+Exercise #1:
+
+Find out the lowest salary value each employee has ever signed a contract for. To obtain the desired output, use a subquery containing a window function, as well as a window specification introduced with the help of the WINDOW keyword.
+
+Also, to obtain the desired result set, refer only to data from the “salaries” table.
+*/
+select * from 
+(select e.emp_no,s.salary, row_number() over (partition by emp_no order by salary asc) as ranking from employees e join salaries s on e.emp_no = s.emp_no) as aj
+where aj.ranking = 1;
