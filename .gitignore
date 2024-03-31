@@ -4,3 +4,7 @@
 /Data Visualization/data-viz/data-viz-env/Scripts/
 /Data Visualization/data-viz/data-viz-env/share/
 Data Visualization/data-viz/data-viz-env/pyvenv.cfg
+/Numpy/bin/
+/Numpy/include/
+/Numpy/lib/
+Numpy/pyvenv.cfg
