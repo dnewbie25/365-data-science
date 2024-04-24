@@ -1,0 +1,201 @@
+id;building;date_sale;type;property_number;area;status;customerid;entity;name;surname;birth_date;gender;country;state;purpose;deal_satisfaction;mortgage;source;price($)
+ID_1030;building_1;11.1.2005;Apartment;property_30;743.09; Sold ;C0028;Individual;Madalyn;Mercer;6/21/1986;F;USA;California;Home;5.0;No;Website;246172.68
+ID_1029;building_1;10.1.2005;Apartment;property_29;756.21; Sold ;C0027;Individual;Lara;Carrillo;2/24/1983;F;USA;California;Home;5.0;No;Website;246331.9
+ID_2002;building_2;7.1.2007;Apartment;property_2;587.28; Sold ;C0112;Individual;Donavan;Flowers;12/27/1985;M;USA;California;Home;1.0;Yes;Client;209280.91
+ID_2031;building_2;12.1.2007;Apartment;property_31;1604.75; Sold ;C0160;Individual;Darien;Dorsey;12/27/1985;M;USA;California;Investment;3.0;Yes;Website;452667.01
+ID_1049;building_1;11.1.2004;Apartment;property_49;1375.45; Sold ;C0014;Individual;Alessandra;Perry;5/15/1979;F;USA;California;Home;4.0;No;Agency;467083.31
+ID_3011;building_3;9.1.2007;Apartment;property_11;675.19; Sold ;C0125;Individual;Kaitlin;Owen;12/26/1981;F;USA;Virginia;Investment;5.0;No;Client;203491.85
+ID_3026;building_3;9.1.2007;Apartment;property_26;670.89; Sold ;C0125;Individual;Kaitlin;Owen;12/26/1981;F;USA;Virginia;Investment;5.0;No;Client;212520.83
+ID_3023;building_3;1.1.2008;Apartment;property_23;720.81; Sold ;C0166;Individual;Terry;Forbes;5/27/1982;M;USA;California;Home;5.0;No;Client;198591.85
+ID_1031;building_1;6.1.2006;Apartment;property_31;782.25; Sold ;C0034;Individual;Kole;Shannon;6/27/1979;M;USA;Arizona;Home;2.0;Yes;Website;265467.68
+ID_4023;building_4;3.1.2006;Apartment;property_23;794.52; Sold ;C0170;Individual;Emmy;Singh;12.3.1979;F;USA;Virginia;Investment;3.0;Yes;Agency;235633.26
+ID_1036;building_1;10.1.2004;Apartment;property_36;1160.36; Sold ;C0009;Individual;Arabella;Ferrell;8/17/1976;F;USA;Oregon;Home;1.0;No;Agency;317473.86
+ID_1046;building_1;8.1.2006;Apartment;property_46;1942.5; Sold ;C0041;Individual;Christian;Costa;9/14/1980;M;USA;California;Home;5.0;No;Website;503790.23
+ID_4035;building_4;10.1.2007;Apartment;property_35;794.52; Sold ;C0057;Individual;Michelle;Cameron;6.4.1978;F;USA;Nevada;Home;3.0;Yes;Website;217786.38
+ID_2036;building_2;11.1.2006;Apartment;property_36;1109.25; Sold ;C0061;Individual;Enrique;Cardenas;6.10.1977;M;USA;California;Home;2.0;No;Website;460001.26
+ID_2056;building_2;4.1.2007;Apartment;property_56;1400.95; Sold ;C0089;Individual;Amanda;Simon;12.3.1978;F;USA;California;Home;5.0;No;Agency;460001.26
+ID_1047;building_1;12.1.2007;Apartment;property_47;1479.72; Sold ;C0159;Individual;Kamden;Stewart;9/14/1978;M;USA;California;Home;5.0;No;Website;448134.27
+ID_5051;building_5;3.1.2006;Apartment;property_51;790.54; Sold ;C0171;Individual;Skylar;Buchanan;12/25/1977;M;USA;Nevada;Home;4.0;Yes;Website;249591.99
+ID_2007;building_2;8.1.2006;Apartment;property_7;723.93; Sold ;C0042;Individual;Michael;Juarez;12/25/1976;M;USA;Colorado;Home;4.0;Yes;Agency;196142.19
+ID_3020;building_3;4.1.2007;Apartment;property_20;781.07; Sold ;C0093;Individual;Antonio;Porter;1.8.1977;M;USA;Arizona;Home;3.0;No;Client;258572.48
+ID_3029;building_3;4.1.2007;Apartment;property_29;1127.76; Sold ;C0093;Individual;Antonio;Porter;1.8.1977;M;USA;Arizona;Home;3.0;No;Client;310831.21
+ID_3015;building_3;10.1.2006;Apartment;property_15;720.7; Sold ;C0051;Individual;Conner;Huff;3/22/1975;M;USA;Nevada;Home;5.0;No;Website;207281.59
+ID_2004;building_2;12.1.2006;Apartment;property_4;649.69; Sold ;C0064;Individual;Joaquin;Mullins;10.5.1975;M;USA;California;Investment;5.0;No;Agency;168834.04
+ID_2006;building_2;12.1.2006;Apartment;property_6;1307.45; Sold ;C0064;Individual;Joaquin;Mullins;10.5.1975;M;USA;California;Investment;5.0;No;Agency;396973.83
+ID_5013;building_5;9.1.2007;Apartment;property_13;618.38; Sold ;C0128;Individual;Kyla;Walker;2/26/1976;F;USA;Colorado;Home;4.0;Yes;Agency;188743.11
+ID_1026;building_1;3.1.2005;Apartment;property_26;625.8; Sold ;C0019;Individual;Victor;Jensen;9.1.1973;M;USA;California;Home;4.0;No;Website;179674.08
+ID_2054;building_2;6.1.2006;Apartment;property_54;1203.29; Sold ;C0037;Individual;Tyler;Carr;3/27/1974;M;USA;California;Home;5.0;Yes;Client;306363.64
+ID_3033;building_3;9.1.2007;Apartment;property_33;670.89; Sold ;C0127;Individual;Maia;Chandler;8.12.1975;F;USA;Utah;Home;1.0;Yes;Website;200300.63
+ID_1025;building_1;3.1.2005;Apartment;property_25;1434.09; Sold ;C0018;Individual;Rodrigo;Ramirez;3/26/1972;M;USA;California;Home;1.0;No;Agency;382041.13
+ID_3027;building_3;8.1.2006;Apartment;property_27;781.07; Sold ;C0040;Individual;Gianni;Fritz;9/15/1973;M;USA;California;Home;3.0;No;Website;245572.79
+ID_3031;building_3;3.1.2007;Apartment;property_31;1596.35; Sold ;C0080;Individual;Janelle;Espinoza;12/25/1974;F;USA;California;Investment;4.0;No;Client;407214.29
+ID_2043;building_2;4.1.2007;Apartment;property_43;1110.32; Sold ;C0083;Individual;Julio;Leonard;7/18/1974;M;USA;Nevada;Home;2.0;Yes;Website;355073.4
+ID_3034;building_3;4.1.2007;Apartment;property_34;781.07; Sold ;C0085;Individual;Melanie;Holland;12/25/1974;F;USA;California;Investment;3.0;No;Client;256821.64
+ID_3016;building_3;4.1.2007;Apartment;property_16;697.89; Sold ;C0091;Individual;Gordon;Brown;2.10.1974;M;UK;Arizona;Investment;4.0;No;Agency;226342.8
+ID_1018;building_1;10.1.2004;Apartment;property_18;625.8; Sold ;C0007;Individual;Jaelyn;Berger;5.5.1970;F;USA;California;Home;3.0;No;Website;191389.87
+ID_2050;building_2;9.1.2006;Apartment;property_50;957.53; Sold ;C0048;Individual;Adriana;Shaffer;7.11.1972;F;USA;California;Investment;2.0;No;Agency;297008.97
+ID_2044;building_2;1.1.2007;Apartment;property_44;722.96; Sold ;C0065;Individual;Mara;Franco;6.7.1973;F;USA;California;Home;5.0;Yes;Agency;250773.15
+ID_3039;building_3;5.1.2007;Apartment;property_39;923.21; Sold ;C0096;Individual;Kael;Hurley;12/15/1973;M;USA;Colorado;Home;3.0;No;Website;312211.14
+ID_3053;building_3;12.1.2007;Apartment;property_53;670.24; Sold ;C0164;Individual;Belinda;Hogan;8/18/1973;F;USA;California;Home;1.0;Yes;Agency;190119.5
+ID_2041;building_2;7.1.2006;Apartment;property_41;785.48; Sold ;C0038;Individual;Mohammad;Irwin;12.2.1971;M;USA;California;Home;1.0;No;Website;225050.52
+ID_5035;building_5;5.1.2008;Apartment;property_35;798.28; Sold ;C0087;Individual;Warren;Pugh;7/17/1973;M;USA;Arizona;Investment;5.0;No;Website;261742.74
+ID_4005;building_4;11.1.2007;Apartment;property_5;1121.95; Sold ;C0142;Individual;Kassidy;Vega;5.7.1972;F;USA ;California;Home;5.0;No;Website;344530.89
+ID_1032;building_1;1.1.2005;Apartment;property_32;782.25; Sold ;C0015;Individual;Lauryn;Patrick;10/30/1969;F;Belgium;;Home;2.0;No;Agency;215410.28
+ID_3046;building_3;8.1.2007;Apartment;property_46;923.21; Sold ;C0122;Individual;Brock;Fischer;5/29/1971;M;USA;Kansas;Home;3.0;No;Website;252185.99
+ID_1041;building_1;3.1.2005;Apartment;property_41;1434.09; Sold ;C0017;Individual;Memphis;Mcconnell;8/25/1968;M;USA;California;Home;2.0;Yes;Website;480545.81
+ID_1012;building_1;3.1.2005;Apartment;property_12;1160.36; Sold ;C0020;Individual;Grant;Weber;9.8.1968;M;USA;California;Home;5.0;Yes;Website;300385.62
+ID_5033;building_5;5.1.2008;Apartment;property_33;798.28; Sold ;C0086;Individual;Jace;Riggs;8/20/1971;F;USA;California;Home;1.0;No;Website;240539.35
+ID_4006;building_4;7.1.2006;Apartment;property_6;733.19; Sold ;C0150;Individual;Emmett;Estes;6.5.1969;M;USA ;California;Home;3.0;No;Website;222138.72
+ID_5040;building_5;12.1.2007;Apartment;property_40;798.28; Sold ;C0156;Individual;Isis;Rios;4.1.1970;M;USA;California;Investment;4.0;No;Website;228410.05
+ID_4013;building_4;1.1.2007;Apartment;property_13;733.19; Sold ;C0169;Individual;Mason;Gilbert;7/31/1970;M;USA;Colorado;Home;2.0;No;Agency;197053.51
+ID_1003;building_1;6.1.2005;Office;property_3;717.05; Sold ;C0022;Individual;Zain;Horne;4/13/1967;M;USA;Arizona;Home;1.0;Yes;Website;193660.62
+ID_2009;building_2;3.1.2007;Apartment;property_9;747.5; Sold ;C0072;Individual;Dayton;Hatfield;4/19/1969;M;USA;Colorado;Investment;4.0;Yes;Agency;237060.15
+ID_4024;building_4;11.1.2007;Apartment;property_24;1121.95; Sold ;C0136;Individual;Annabel;Robles;10/14/1969;F;USA;California;Home;5.0;Yes;Website;372001.7
+ID_4012;building_4;11.1.2007;Apartment;property_12;1121.95; Sold ;C0149;Individual;Kayden;Olsen;10/17/1969;F;USA;California;Home;5.0;No;Website;290031.26
+ID_1035;building_1;10.1.2004;Apartment;property_35;827.87; Sold ;C0011;Individual;Davion;Stout;7/20/1965;M;USA;Nevada;Home;1.0;Yes;Agency;238811.06
+ID_2017;building_2;3.1.2007;Apartment;property_17;747.5; Sold ;C0073;Individual;Kevin;Mata;10.12.1968;M;USA;Colorado;Investment;2.0;No;Agency;199054.2
+ID_4051;building_4;3.1.2007;Apartment;property_51;1608.84; Sold ;C0110;Individual;Kareem;Liu;5.11.1968;F;USA;California;Home;4.0;Yes;Website;496266.41
+ID_3014;building_3;7.1.2007;Apartment;property_14;1132.06; Sold ;C0111;Individual;Grace;Stein;12/20/1968;F;USA;California;Home;3.0;Yes;Website;346906.89
+ID_2051;building_2;9.1.2007;Apartment;property_51;1383.84; Sold ;C0123;Individual;Lydia;Tate;8/14/1968;F;USA;California;Home;3.0;Yes;Website;376964.62
+ID_2025;building_2;2.1.2007;Apartment;property_25;927.83; Sold ;C0070;Individual;Aleksandra;Karenina;6/13/1967;F;Russia;;Home;1.0;No;Agency;315733.15
+ID_3047;building_3;3.1.2007;Apartment;property_47;669.16; Sold ;C0075;Individual;Sincere;Hansen;1/19/1967;F;USA;California;Investment;2.0;Yes;Agency;188273.73
+ID_2046;building_2;3.1.2007;Apartment;property_46;928.16; Sold ;C0076;Individual;Luke;Lynn;2.7.1967;M;USA;California;Home;2.0;Yes;Agency;253831.02
+ID_5016;building_5;6.1.2007;Apartment;property_16;798.5; Sold ;C0105;Individual;Myla;Ewing;2.3.1967;F;USA;Oregon;Investment;2.0;No;Client;278575.87
+ID_4041;building_4;10.1.2007;Apartment;property_41;1305.62; Sold ;C0135;Individual;Morgan;Glass;5.12.1967;M;USA;Utah;Home;5.0;No;Agency;402081.8
+ID_4018;building_4;11.1.2007;Apartment;property_18;1121.95; Sold ;C0153;Individual;Camille;Sharp;10/17/1967;F;USA;California;Home;5.0;No;Website;310832.59
+ID_2005;building_2;9.1.2006;Apartment;property_5;785.48; Sold ;C0047;Individual;Alejandra;Greer;1.11.1965;F;Denmark;;Investment;1.0;No;Agency;257183.48
+ID_2010;building_2;11.1.2006;Apartment;property_10;927.08; Sold ;C0060;Individual;Valentina;Simpson;1/24/1965;F;USA;California;Home;4.0;Yes;Agency;326885.34
+ID_2022;building_2;1.1.2007;Apartment;property_22;1109.25; Sold ;C0066;Individual;Helen;Williamson;2/26/1966;F;USA;Colorado;Home;5.0;Yes;Agency;344568.74
+ID_2047;building_2;2.1.2007;Apartment;property_47;649.8; Sold ;C0068;Individual;Nicolas;Navarro;6/17/1966;M;USA;Oregon;Investment;3.0;No;Agency;214631.68
+ID_2012;building_2;4.1.2007;Apartment;property_12;785.48; Sold ;C0090;Individual;Case;Sanchez;5/26/1966;F;USA;California;Home;5.0;No;Website;237207.68
+ID_3038;building_3;5.1.2007;Apartment;property_38;1596.35; Sold ;C0095;Individual;Rodrigo;Robinson;8.11.1966;M;USA;California;Home;4.0;No;Website;464549.19
+ID_4030;building_4;11.1.2007;Apartment;property_30;1121.95; Sold ;C0151;Individual;Iris;Larsen;9/14/1966;M;USA;California;Home;4.0;Yes;Agency;310577.04
+ID_3017;building_3;12.1.2007;Apartment;property_17;743.41; Sold ;C0162;Individual;Araceli;Nelson;9/14/1966;M;Germany;California;Investment;5.0;No;Agency;205098.21
+ID_1045;building_1;10.1.2004;Apartment;property_45;756.21; Sold ;C0010;Individual;Trystan;Oconnor;11/26/1962;M;USA;California;Home;1.0;No;Website;248525.12
+ID_2040;building_2;10.1.2006;Apartment;property_40;649.8; Sold ;C0054;Individual;Erik;Mora;12.7.1964;M;USA;Oregon;Investment;5.0;No;Agency;224463.87
+ID_2042;building_2;11.1.2006;Apartment;property_42;785.48; Sold ;C0056;Individual;Emely;Watts;11/30/1964;F;USA;California;Home;4.0;No;Website;220606.28
+ID_2048;building_2;3.1.2007;Apartment;property_48;785.48; Sold ;C0081;Individual;Jordyn;Park;4.4.1965;M;USA;Nevada;Investment;3.0;Yes;Website;220865.0
+ID_3049;building_3;4.1.2007;Apartment;property_49;1283.45; Sold ;C0084;Individual;Diego;Mendez;5.12.1965;M;Mexico;;Home;3.0;No;Agency;338181.18
+ID_1017;building_1;2.1.2005;Apartment;property_17;1434.09; Sold ;C0016;Individual;Harley;Lucero;8.10.1962;M;USA;California;Home;1.0;Yes;Website;432679.91
+ID_1039;building_1;6.1.2006;Apartment;property_39;782.25; Sold ;C0035;Individual;Emilie;Morrison;10/29/1957;F;USA;California;Home;3.0;Yes;Website;196220.05
+ID_2049;building_2;11.1.2006;Apartment;property_49;1288.62; Sold ;C0062;Individual;Jaylen;Turner;7/15/1963;F;USA;California;Home;4.0;No;Agency;323915.81
+ID_3054;building_3;5.1.2007;Apartment;property_54;781.07; Sold ;C0099;Individual;Frank;Meyer;3/16/1964;M;USA;California;Home;3.0;Yes;Agency;200719.02
+ID_3055;building_3;5.1.2007;Apartment;property_55;1222.34; Sold ;C0099;Individual;Frank;Meyer;3/16/1964;M;USA;California;Home;3.0;Yes;Agency;380809.52
+ID_3042;building_3;7.1.2007;Apartment;property_42;781.07; Sold ;C0114;Individual;Jakobe;Bailey;10.6.1964;M;UK;California;Investment;4.0;No;Agency;213942.56
+ID_1038;building_1;8.1.2004;Apartment;property_38;743.09; Sold ;C0006;Individual;Laci;Guerra;6/17/1956;F;USA;California;Home;2.0;Yes;Website;207581.43
+ID_2020;building_2;10.1.2006;Apartment;property_20;785.48; Sold ;C0053;Individual;Scarlet;Hendricks;1/20/1962;F;USA;California;Home;5.0;Yes;Website;241671.52
+ID_2014;building_2;2.1.2007;Apartment;property_14;1109.25; Sold ;C0069;Individual;Alonso;Terrell;11.5.1963;M;USA;California;Investment;4.0;No;Website;336695.25
+ID_3001;building_3;8.1.2007;Apartment;property_1;579.75; Sold ;C0069;Individual;Alonso;Terrell;11.5.1963;M;USA;California;Investment;4.0;No;Website;171262.65
+ID_3043;building_3;11.1.2007;Apartment;property_43;1128.4; Sold ;C0069;Individual;Alonso;Terrell;11.5.1963;M;USA;California;Investment;4.0;No;Website;299159.14
+ID_2016;building_2;3.1.2007;Apartment;property_16;701.66; Sold ;C0077;Individual;Hazel;Ayers;2.1.1963;M;USA;Colorado;Home;2.0;No;Website;212265.67
+ID_4049;building_4;1.1.2008;Apartment;property_49;1336.93; Sold ;C0168;Individual;Brisa;Mckee;9/24/1964;F;USA;California;Home;5.0;No;Client;388515.14
+ID_4022;building_4;8.1.2007;Apartment;property_22;794.52; Sold ;C0058;Individual;Johanna;Fisher;8/25/1962;F;USA;California;Home;4.0;Yes;Website;263790.81
+ID_3059;building_3;6.1.2007;Apartment;property_59;1171.55; Sold ;C0107;Individual;Curtis;Howard;9.11.1962;M;USA;California;Home;2.0;No;Agency;367976.46
+ID_4034;building_4;10.1.2007;Apartment;property_34;794.52; Sold ;C0131;Individual;Kamila;Collier;1/21/1962;F;USA;California;Home;1.0;Yes;Website;243052.59
+ID_5027;building_5;11.1.2007;Apartment;property_27;798.28; Sold ;C0144;Individual;Joseph;Reeves;9/23/1962;M;USA;California;Investment;5.0;No;Website;269075.3
+ID_5028;building_5;11.1.2007;Apartment;property_28;798.28; Sold ;C0144;Individual;Joseph;Reeves;9/23/1962;M;USA;California;Investment;5.0;No;Website;223577.32
+ID_2026;building_2;9.1.2006;Apartment;property_26;649.8; Sold ;C0048;Individual;Adriana;Shaffer;7.11.1972;F;USA;California;Investment;2.0;No;Agency;198075.99
+ID_3022;building_3;5.1.2007;Apartment;property_22;1137.44; Sold ;C0098;Individual;Oswaldo;Palmer;6/16/1960;M;USA;California;Home;2.0;No;Website;354553.23
+ID_2024;building_2;6.1.2005;Apartment;property_24;1604.75; Sold ;C0130;Individual;Ezra;Lozano;2/24/1958;M;USA;California;Home;1.0;No;Website;456919.46
+ID_3003;building_3;11.1.2007;Apartment;property_3;675.19; Sold ;C0141;Individual;Melany;Glover;10.1.1960;F;USA;California;Investment;1.0;Yes;Agency;233142.8
+ID_2011;building_2;1.1.2007;Apartment;property_11;649.69; Sold ;C0067;Individual;Jacqueline;Grant;11/13/1959;F;USA;California;Home;4.0;No;Website;225401.62
+ID_2028;building_2;4.1.2007;Apartment;property_28;785.48; Sold ;C0082;Individual;Violet;Nixon;1.1.1959;F;USA;Oregon;Investment;5.0;No;Client;195153.16
+ID_3028;building_3;7.1.2007;Apartment;property_28;781.07; Sold ;C0113;Individual;Anya;Stephenson;6.11.1959;F;USA;California;Home;4.0;No;Website;206631.81
+ID_3036;building_3;10.1.2007;Apartment;property_36;1127.76; Sold ;C0132;Individual;Kale;Gay;4.7.1959;M;USA;California;Home;4.0;Yes;Agency;358525.59
+ID_4010;building_4;11.1.2007;Apartment;property_10;794.52; Sold ;C0137;Individual;Russell;Gross;11/25/1959;M;USA;California;Home;5.0;No;Website;223917.34
+ID_4011;building_4;11.1.2007;Apartment;property_11;794.52; Sold ;C0137;Individual;Russell;Gross;11/25/1959;M;USA;California;Home;5.0;No;Website;201518.89
+ID_3035;building_3;12.1.2007;Apartment;property_35;781.07; Sold ;C0155;Individual;Laurel;Benitez;8.6.1959;M;USA;California;Home;4.0;Yes;Agency;269278.57
+ID_3037;building_3;12.1.2007;Apartment;property_37;720.81; Sold ;C0163;Individual;Aniyah;Ali;11.3.1959;F;USA;California;Investment;2.0;Yes;Website;204808.16
+ID_2032;building_2;8.1.2006;Apartment;property_32;927.83; Sold ;C0039;Individual;Derick;Li;3/20/1957;M;USA;California;Home;3.0;Yes;Agency;306878.46
+ID_2018;building_2;2.1.2007;Apartment;property_18;927.83; Sold ;C0071;Individual;Cole;Taylor;12.6.1958;M;USA;California;Home;3.0;Yes;Website;275394.25
+ID_2035;building_2;5.1.2007;Apartment;property_35;785.48; Sold ;C0101;Individual;Ava;Phelps;4/15/1958;F;USA;California;Home;3.0;No;Client;192092.24
+ID_5025;building_5;12.1.2008;Apartment;property_25;618.16; Sold ;C0146;Individual;Nyla;Blake;6.5.1959;F;USA;California;Investment;5.0;Yes;Agency;165430.28
+ID_2029;building_2;9.1.2006;Apartment;property_29;1109.25; Sold ;C0051;Individual;Conner;Huff;3/22/1975;M;USA;Nevada;Home;5.0;No;Website;310223.29
+ID_3007;building_3;10.1.2006;Apartment;property_7;720.7; Sold ;C0052;Individual;Tristian;Fuller;3/13/1956;M;USA;California;Home;5.0;No;Agency;231552.33
+ID_3030;building_3;10.1.2006;Apartment;property_30;720.81; Sold ;C0052;Individual;Tristian;Fuller;3/13/1956;M;USA;California;Home;5.0;No;Agency;215774.28
+ID_2003;building_2;12.1.2006;Apartment;property_3;927.08; Sold ;C0063;Individual;Piotr;Aleksandrov;12.2.1955;M;Russia;;Investment;3.0;No;Agency;289727.99
+ID_5039;building_5;5.1.2008;Apartment;property_39;798.28; Sold ;C0088;Individual;Yurem;Wright;3.6.1957;M;USA;California;Home;3.0;Yes;Website;195874.94
+ID_5030;building_5;5.1.2010;Apartment;property_30;1057.92; Sold ;C0094;Individual;Luis;Crane;4/20/1959;M;USA;Nevada;Home;3.0;Yes;Website;357538.2
+ID_3041;building_3;1.1.2008;Apartment;property_41;781.07; Sold ;C0165;Individual;Anahi;Curry;9.9.1957;M;USA;California;Home;5.0;Yes;Client;239248.75
+ID_2057;building_2;9.1.2006;Apartment;property_57;1396.86; Sold ;C0044;Individual;Ramiro;Oneill;9/29/1954;M;USA ;California;Home;4.0;No;Agency;382277.15
+ID_4028;building_4;2.1.2007;Apartment;property_28;794.52; Sold ;C0157;Individual;Erika;Steward;8.7.1955;F;USA;California;Investment;4.0;No;Website;248422.66
+ID_3032;building_3;8.1.2007;Apartment;property_32;923.21; Sold ;C0118;Individual;Dangelo;Shea;2/27/1954;M;Belgium;Arizona;Investment;4.0;No;Website;242740.66
+ID_3013;building_3;8.1.2007;Apartment;property_13;781.07; Sold ;C0119;Individual;Miguel;Walter;1.7.1954;M;USA;Arizona;Home;4.0;No;Agency;253025.78
+ID_1040;building_1;4.1.2006;Apartment;property_40;782.25; Sold ;C0033;Individual;Alanna;Hess;6/19/1952;F;USA;Nevada;Home;3.0;No;Website;234172.39
+ID_4031;building_4;6.1.2007;Apartment;property_31;733.19; Sold ;C0100;Individual;Simon;Bennett;6.9.1953;M;USA;Colorado;Home;4.0;No;Website;200678.75
+ID_4019;building_4;12.1.2007;Apartment;property_19;733.19; Sold ;C0133;Individual;Ivan;Bright;9/15/1953;M;USA;California;Home;4.0;No;Website;226578.51
+ID_4029;building_4;11.1.2007;Apartment;property_29;794.52; Sold ;C0175;Individual;Madeline;Michael;7/30/1953;F;USA;California;Home;4.0;Yes;Website;200148.89
+ID_1021;building_1;10.1.2004;Apartment;property_21;756.21; Sold ;C0008;Individual;Arthur;Bray;7/14/1949;M;USA;Utah;Investment;4.0;No;Agency;218585.92
+ID_1006;building_1;8.1.2005;Apartment;property_6;736.63; Sold ;C0023;Individual;Bennett;Chen;7/18/1950;M;USA;Nevada;Home;2.0;No;Website;198841.7
+ID_2034;building_2;7.1.2007;Apartment;property_34;785.48; Sold ;C0108;Individual;Van;Charles;5/15/1952;M;USA;Colorado;Home;2.0;Yes;Client;252927.84
+ID_3021;building_3;7.1.2007;Apartment;property_21;781.07; Sold ;C0109;Individual;Rachel;Cross;6/18/1952;F;USA;California;Home;3.0;No;Website;225290.22
+ID_5021;building_5;12.1.2008;Apartment;property_21;798.28; Sold ;C0145;Individual;Augustus;Hinton;2.3.1953;M;USA;Nevada;Investment;2.0;No;Website;234750.59
+ID_5022;building_5;12.1.2008;Apartment;property_22;798.28; Sold ;C0145;Individual;Augustus;Hinton;2.3.1953;M;USA;Nevada;Investment;2.0;No;Website;287466.41
+ID_1044;building_1;6.1.2004;Apartment;property_44;827.87; Sold ;C0003;Individual;Avah;Huang;4/23/1948;F;USA;California;Home;5.0;No;Website;229464.71
+ID_1043;building_1;6.1.2004;Apartment;property_43;1160.36; Sold ;C0004;Individual;Nora;Lynch;4/23/1948;F;USA;California;Home;5.0;No;Website;377313.56
+ID_1027;building_1;8.1.2005;Apartment;property_27;827.87; Sold ;C0024;Individual;Irvin;Ellis;11/14/1949;M;USA;California;Home;3.0;No;Agency;276759.18
+ID_2023;building_2;12.1.2005;Apartment;property_23;723.83; Sold ;C0030;Individual;Aiyana;Christensen;1/16/1949;F;USA;California;Investment;3.0;No;Website;219373.41
+ID_5046;building_5;11.1.2007;Apartment;property_46;798.28; Sold ;C0147;Individual;Parker;Poole;11.10.1951;M;USA;California;Home;5.0;No;Website;230216.22
+ID_1002;building_1;3.1.2004;Office;property_2;1238.58; Sold ;C0002;Individual;Jack;Anderson;2/13/1947;M;USA;California;Investment;5.0;Yes;Website;410932.67
+ID_2030;building_2;12.1.2005;Apartment;property_30;723.83; Sold ;C0031;Individual;Cedric;Goodwin;2/20/1948;M;USA;Utah;Home;4.0;No;Client;214341.34
+ID_3050;building_3;11.1.2006;Apartment;property_50;977.87; Sold ;C0059;Individual;Elena;Petrova;6/22/1949;F;Russia;;Home;3.0;Yes;Agency;248274.31
+ID_5050;building_5;11.1.2007;Apartment;property_50;1093.0; Sold ;C0140;Individual;Aniya;Miller;3.2.1951;F;USA;Nevada;Home;3.0;No;Website;390494.27
+ID_2039;building_2;8.1.2006;Apartment;property_39;927.83; Sold ;C0043;Individual;Kayley;Nielsen;4/27/1947;F;USA;Arizona;Home;4.0;Yes;Website;293876.27
+ID_2008;building_2;3.1.2007;Apartment;property_8;701.66; Sold ;C0078;Individual;Zaiden;Merritt;2/23/1948;M;USA;Wyoming;Home;3.0;No;Agency;204286.67
+ID_3019;building_3;9.1.2007;Apartment;property_19;680.57; Sold ;C0124;Individual;Sonia;Choi;11.9.1948;F;USA;Oregon;Investment;5.0;No;Agency;230154.53
+ID_2015;building_2;9.1.2006;Apartment;property_15;723.93; Sold ;C0049;Individual;Trey;Strong;12/20/1958;M;USA;California;Home;4.0;No;Agency;228170.03
+ID_2033;building_2;9.1.2006;Apartment;property_33;649.8; Sold ;C0049;Individual;Trey;Strong;12/20/1958;M;USA;California;Home;4.0;No;Agency;205085.4
+ID_2019;building_2;3.1.2007;Apartment;property_19;649.8; Sold ;C0079;Individual;Xavier;Faulkner;5/24/1947;M;Canada;;Investment;5.0;No;Website;177555.06
+ID_2021;building_2;4.1.2007;Apartment;property_21;785.48; Sold ;C0079;Individual;Xavier;Faulkner;5/24/1947;M;Canada;;Investment;5.0;No;Website;217748.48
+ID_2027;building_2;4.1.2007;Apartment;property_27;785.48; Sold ;C0079;Individual;Xavier;Faulkner;5/24/1947;M;Canada;;Investment;5.0;No;Website;247739.44
+ID_2052;building_2;3.1.2007;Apartment;property_52;1615.29; Sold ;C0079;Individual;Xavier;Faulkner;5/24/1947;M;Canada;;Investment;5.0;No;Website;484458.03
+ID_3006;building_3;2.1.2007;Apartment;property_6;1132.06; Sold ;C0079;Individual;Xavier;Faulkner;5/24/1947;M;Canada;;Investment;5.0;No;Website;356506.37
+ID_3044;building_3;3.1.2007;Apartment;property_44;720.38; Sold ;C0079;Individual;Xavier;Faulkner;5/24/1947;M;Canada;;Investment;5.0;No;Website;197869.36
+ID_4025;building_4;12.1.2007;Apartment;property_25;733.19; Sold ;C0079;Individual;Xavier;Faulkner;5/24/1947;M;Canada;;Investment;5.0;No;Website;236608.95
+ID_1015;building_1;11.1.2004;Apartment;property_15;782.25; Sold ;C0013;Individual;Franklin;Mack;6/18/1943;M;USA;Virginia;Home;5.0;Yes;Website;208930.81
+ID_5041;building_5;11.1.2007;Apartment;property_41;798.28; Sold ;C0139;Individual;Logan;Simmons;9/14/1946;M;USA;California;Investment;4.0;No;Agency;263123.42
+ID_5036;building_5;11.1.2007;Apartment;property_36;1057.92; Sold ;C0154;Individual;Sidney;Cline;7/24/1943;F;USA;California;Home;4.0;Yes;Website;286433.57
+ID_2037;building_2;9.1.2006;Apartment;property_37;723.83; Sold ;C0045;Individual;Matilda;Madden;3.3.1941;F;USA;Colorado;Home;3.0;No;Agency;229581.78
+ID_5034;building_5;10.1.2007;Apartment;property_34;798.28; Sold ;C0134;Individual;Yesenia;Marquez;7/23/1942;F;USA;Arizona;Home;4.0;No;Website;252053.03
+ID_4016;building_4;11.1.2007;Apartment;property_16;794.52; Sold ;C0138;Individual;Colin;Campos;4/14/1942;M;USA;California;Home;3.0;No;Website;244820.67
+ID_4040;building_4;12.1.2007;Apartment;property_40;794.52; Sold ;C0158;Individual;Erika;Gallagher;7/19/1942;F;USA;California;Home;1.0;Yes;Website;241620.48
+ID_1024;building_1;6.1.2006;Apartment;property_24;782.25; Sold ;C0036;Individual;Jair;Johns;3.5.1940;M;USA;California;Home;5.0;No;Website;235762.34
+ID_2013;building_2;3.1.2007;Apartment;property_13;785.48; Sold ;C0074;Individual;Jaylynn;Hickman;8/19/1941;F;USA;California;Home;5.0;No;Client;236639.56
+ID_3010;building_3;8.1.2007;Apartment;property_10;923.21; Sold ;C0120;Individual;Jack;Hanson;12.1.1941;M;USA;California;Investment;4.0;No;Website;294807.65
+ID_3018;building_3;8.1.2007;Apartment;property_18;923.21; Sold ;C0120;Individual;Jack;Hanson;12.1.1941;M;USA;California;Investment;4.0;No;Website;293828.69
+ID_1033;building_1;8.1.2004;Apartment;property_33;1434.09; Sold ;C0005;Individual;Rodolfo;Gibson;1/20/1937;M;USA;Nevada;Home;2.0;Yes;Website;412856.56
+ID_1016;building_1;2.1.2006;Apartment;property_16;782.25; Sold ;C0032;Individual;Olivia;Oconnell;9.3.1939;F;USA;California;Investment;5.0;No;Website;224076.84
+ID_3005;building_3;3.1.2006;Apartment;property_5;781.07; Sold ;C0126;Individual;Crystal;Wyatt;6/30/1939;F;USA;Oregon;Investment;3.0;Yes;Website;258015.61
+ID_5019;building_5;6.1.2007;Apartment;property_19;618.38; Sold ;C0106;Individual;Ruben;Melton;3.5.1939;M;USA;Utah;Investment;2.0;No;Agency;153466.71
+ID_3002;building_3;8.1.2007;Apartment;property_2;923.21; Sold ;C0115;Individual;Issac;Edwards;10/29/1938;M;USA;California;Home;5.0;No;Website;261871.7
+ID_3004;building_3;8.1.2007;Apartment;property_4;781.07; Sold ;C0115;Individual;Issac;Edwards;10/29/1938;M;USA;California;Home;5.0;No;Website;210038.7
+ID_3012;building_3;10.1.2007;Apartment;property_12;781.07; Sold ;C0129;Individual;Jesus;Obrien;6.9.1938;M;USA;Oregon;Investment;3.0;No;Website;210824.06
+ID_3048;building_3;10.1.2007;Apartment;property_48;781.07; Sold ;C0129;Individual;Jesus;Obrien;6.9.1938;M;USA;Oregon;Investment;3.0;No;Website;249075.66
+ID_3008;building_3;6.1.2007;Apartment;property_8;697.89; Sold ;C0103;Individual;Jamal;Mueller;8/13/1936;M;USA;Oregon;Investment;2.0;No;Website;219865.76
+ID_3040;building_3;6.1.2007;Apartment;property_40;670.89; Sold ;C0103;Individual;Jamal;Mueller;8/13/1936;M;USA;Oregon;Investment;2.0;No;Website;204292.49
+ID_1023;building_1;4.1.2005;Apartment;property_23;782.25; Sold ;C0021;Individual;Kaylin;Villarreal;6/13/1932;F;Russia;;Investment;3.0;No;Website;261579.89
+ID_3009;building_3;5.1.2006;Apartment;property_9;743.41; Sold ;C0148;Individual;Myah;Roman;5.5.1933;F;USA;California;Investment;5.0;Yes;Agency;222867.42
+ID_3052;building_3;3.1.2006;Apartment;property_52;923.21; Sold ;C0172;Individual;Henry;Kennedy;6.8.1933;M;USA;California;Home;4.0;Yes;Agency;291494.36
+ID_3025;building_3;6.1.2007;Apartment;property_25;923.21; Sold ;C0104;Individual;Diana;Hunt;2/13/1931;F;USA;Arizona;Home;3.0;No;Website;296483.14
+ID_5052;building_5;nan;Apartment;property_52;1769.48;nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;;nan;nan;532877.38
+ID_1005;building_1;3.1.2004;Office;property_5;410.71; Sold ;C0001;Company;Kamd;Co;nan;nan;USA;California;Investment;5.0;No;Agency;117564.07
+ID_1009;building_1;11.1.2004;Office;property_9;1200.82; Sold ;C0012;Company;Bridger CAL;Co;nan;nan;USA;Nevada;Investment;5.0;No;Website;317196.4
+ID_1009;building_1;11.1.2004;Office;property_10;800.96; Sold ;C0012;Company;Bridger CAL;Co;nan;nan;USA;Nevada;Investment;5.0;No;Website;264142.16
+ID_1011;building_1;9.1.2005;Office;property_11;827.87; Sold ;C0025;Company;Abdiel;Co;nan;nan;USA;Nevada;Investment;5.0;Yes;Website;222947.21
+ID_1007;building_1;12.1.2005;Apartment;property_7;775.69; Sold ;C0029;Company;Kenyon;Co;nan;nan;USA;California;Investment;1.0;Yes;Website;250312.53
+ID_1008;building_1;12.1.2005;Office;property_8;775.69; Sold ;C0029;Company;Kenyon;Co;nan;nan;USA;California;Investment;1.0;Yes;Website;246050.4
+ID_2038;building_2;10.1.2006;Apartment;property_38;1604.75; Sold ;C0055;Company;Kylax;Co;nan;nan;USA;California;Investment;5.0;No;Website;529317.28
+ID_2001;building_2;3.1.2004;Apartment;property_1;587.28; Sold ;C0121;Company;Esther;Co;nan;nan;USA;California;Home;3.0;Yes;Website;169158.29
+ID_1013;building_1;7.1.2005;Apartment;property_13;756.21; Sold ;C0174;Company;Marleez;Co;nan;nan;USA ;California;Investment;5.0;No;Website;206958.71
+ID_1014;building_1;7.1.2005;Apartment;property_14;743.09; Sold ;C0174;Company;Marleez;Co;nan;nan;USA ;California;Investment;5.0;No;Website;206445.42
+ID_1019;building_1;7.1.2005;Apartment;property_19;827.87; Sold ;C0174;Company;Marleez;Co;nan;nan;USA ;California;Investment;5.0;No;Website;239341.58
+ID_1020;building_1;7.1.2005;Apartment;property_20;1160.36; Sold ;C0174;Company;Marleez;Co;nan;nan;USA ;California;Investment;5.0;No;Website;398903.42
+ID_1022;building_1;7.1.2005;Apartment;property_22;743.09; Sold ;C0174;Company;Marleez;Co;nan;nan;USA ;California;Investment;5.0;No;Website;210745.17
+ID_1028;building_1;7.1.2005;Apartment;property_28;1160.36; Sold ;C0174;Company;Marleez;Co;nan;nan;USA ;California;Investment;5.0;No;Website;331154.88
+ID_1034;building_1;7.1.2005;Apartment;property_34;625.8; Sold ;C0174;Company;Marleez;Co;nan;nan;USA ;California;Investment;5.0;No;Website;204434.68
+ID_1037;building_1;7.1.2005;Apartment;property_37;756.21; Sold ;C0174;Company;Marleez;Co;nan;nan;USA ;California;Investment;5.0;No;Website;189194.31
+ID_1042;building_1;7.1.2005;Apartment;property_42;625.8; Sold ;C0174;Company;Marleez;Co;nan;nan;USA ;California;Investment;5.0;No;Website;204027.09
+ID_1002;building_1;nan;Apartment;property_2;1238.58;nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;;nan;nan;400865.92
+ID_1003;building_1;nan;Office;property_3;713.71;nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;;nan;nan;217787.71
+ID_1008;building_1;nan;Apartment;property_8;763.21;nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;;nan;nan;219630.9
+ID_1019;building_1;nan;Apartment;property_19;798.5;nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;;nan;nan;244624.87
