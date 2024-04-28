@@ -8,3 +8,9 @@ Data Visualization/data-viz/data-viz-env/pyvenv.cfg
 /Numpy/include/
 /Numpy/lib/
 Numpy/pyvenv.cfg
+/Machine Learning/Include/
+/Machine Learning/Include/
+/Machine Learning/Lib/
+/Machine Learning/Scripts/
+/Machine Learning/share/
+Machine Learning/pyvenv.cfg
