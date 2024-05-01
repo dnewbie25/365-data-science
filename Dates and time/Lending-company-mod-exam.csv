@@ -1,0 +1,1044 @@
+LoanID,Product,CustomerGender,Location,Region,TotalPrice,StartDate,TimeOfLoan,Deposit,LoanStatus
+1,Product B,Male,Location 3,Region 2,17600,04/07/2018,23:20:56,2200,Active
+2,Product B,Female,Location 6,Region 6,,02/01/2019,17:27:08,2200,Active
+3,Product C,Male,Location 8,Region 3,16600,08/12/2016,09:04:43,1000,
+4,Product B,Male,Location 26,Region 2,17600,09/10/2016,04:25:06,2200,Active
+5,Product D,Female,Location 34,Region 3,21250,28/10/2017,11:15:47,2200,Active
+6,Product B,Male,Location 34,Region 1,,19/04/2019,01:54:41,2200,Active
+7,Product A,Male,Location 25,,21250,04/07/2020,02:07:28,2200,Active
+8,Product B,Male,Location 46,Region 5,17600,24/04/2018,11:44:57,2200,Active
+9,Product A,Male,Location 156,Region 6,23250,03/09/2019,01:40:29,5000,
+10,Product A,Male,Location 21,Region 9,21250,25/07/2020,18:43:04,2200,Active
+11,Product B,Female,Location 13,Region 6,17600,01/05/2018,02:12:30,2200,Active
+12,Product D,Female,Location 25,Region 6,21250,29/03/2017,07:38:10,2200,Active
+13,Product B,Female,Location 579,Region 3,17600,03/10/2018,08:51:28,2200,Active
+14,Product A,Male,Location 602,Region 3,21750,18/09/2019,08:14:53,3000,Active
+15,Product A,Male,Location 10,Region 7,23250,20/05/2019,05:32:40,5000,Active
+16,Product B,Male,Location 44,Region 2,17600,31/05/2018,10:17:48,2200,Active
+17,Product A,Male,Location 25,Region 3,23250,29/08/2019,19:36:25,5000,Active
+18,Product B,Male,Location 44,Region 6,17600,06/06/2018,01:32:09,2200,Active
+19,Product B,Male,Location 26,Region 6,17600,27/03/2019,07:07:10,2200,Active
+20,Product E,NotSpecified,Location 30,Region 6,55625,11/10/2019,10:27:26,8000,Active
+21,Product B,Female,Location 48,Region 1,17600,12/05/2018,05:20:29,2200,Active
+22,Product A,Female,Location 196,Region 4,23250,07/07/2019,09:54:41,5000,Active
+23,Product A,Female,Location 64,Region 12,20250,13/02/2020,06:51:57,1000,Active
+24,Product C,NotSpecified,Location 91,Region 2,16600,21/12/2016,04:21:18,1000,Active
+25,Product D,Female,Location 62,Region 6,21250,02/10/2017,23:10:18,2200,Active
+26,Product A,Male,Location 75,Region 2,23250,11/09/2019,13:23:53,5000,Active
+27,Product A,Male,Location 26,Region 1,20250,07/11/2019,15:22:10,1000,Active
+28,Product F,Male,Location 42,Region 4,70225,17/04/2020,04:54:42,8000,Active
+29,Product D,Male,Location 233,Region 6,21250,14/12/2017,08:31:11,2200,Active
+30,Product B,Female,Location 95,Region 2,17600,09/05/2019,14:03:10,2200,Active
+31,Product B,Male,Location 78,Region 3,17600,24/02/2018,19:16:17,2200,Active
+32,Product B,Female,Location 25,Region 6,17600,09/08/2018,07:43:15,2200,Active
+33,Product A,Male,Location 6,Region 5,20250,07/03/2020,13:33:16,1000,Active
+34,Product B,Female,Location 61,Region 2,17600,22/02/2018,07:16:01,2200,Active
+35,Product A,Male,Location 87,Region 6,20250,08/02/2020,20:25:08,1000,Active
+36,Product B,Female,Location 19,Region 1,17600,24/07/2018,03:03:15,2200,Active
+37,Product B,Male,Location 8,Region 6,17600,24/03/2018,14:24:52,2200,Active
+38,Product B,Female,Location 115,Region 3,17600,22/02/2019,21:14:38,2200,Active
+39,Product C,Male,Location 350,Region 4,16600,13/09/2016,04:08:07,1000,Active
+40,Product B,Male,Location 377,Region 6,17600,12/10/2018,21:04:20,2200,Active
+41,Product B,Male,Location 17,Region 6,17600,27/06/2018,07:19:27,2200,Active
+42,Product B,Female,Location 113,Region 6,17600,26/02/2019,23:12:22,2200,Active
+43,Product A,Female,Location 42,Region 2,20250,17/10/2019,02:48:13,1000,Active
+44,Product C,Male,Location 602,Region 4,16600,04/02/2017,16:02:13,1000,Active
+45,Product A,Female,Location 81,Region 6,20250,03/06/2020,22:43:18,1000,Active
+46,Product B,Male,Location 58,Region 2,17600,24/05/2018,00:48:29,2200,Active
+47,Product B,Male,Location 212,Region 2,17600,20/02/2018,07:38:51,2200,Active
+48,Product B,Male,Location 53,Region 6,17600,10/05/2018,08:01:43,2200,Active
+49,Product D,Male,Location 46,Region 6,21250,17/05/2017,08:35:14,2200,Active
+50,Product A,Male,Location 3,Region 7,23250,17/06/2020,14:12:15,5000,Active
+51,Product B,Male,Location 91,Region 3,17600,07/02/2019,14:54:20,2200,Active
+52,Product A,Male,Location 337,Region 1,21250,11/12/2019,07:54:29,2200,Active
+53,Product D,Female,Location 41,Region 6,21250,09/06/2017,15:40:25,2200,Active
+54,Product B,Female,Location 42,Region 1,17600,12/04/2019,00:45:22,2200,Active
+55,Product B,Male,Location 632,Region 6,17600,05/01/2019,19:37:17,2200,Active
+56,Product B,Male,Location 73,Region 6,17600,21/03/2018,11:35:59,2200,Active
+57,Product B,Female,Location 10,Region 6,,10/08/2018,22:51:51,2200,Active
+58,Product B,Male,Location 53,Region 2,17600,12/01/2019,11:18:10,2200,
+59,Product B,Female,Location 214,Region 6,17600,25/10/2018,20:04:22,2200,Active
+60,Product B,Female,Location 218,Region 6,17600,12/06/2018,23:10:36,2200,Active
+61,Product A,Female,Location 38,Region 6,20250,12/02/2020,05:23:20,1000,Active
+62,Product C,Female,Location 172,Region 6,16600,09/11/2016,09:57:49,1000,Active
+63,Product C,Male,Location 197,Region 1,16600,24/01/2017,08:13:25,1000,Active
+64,Product D,NotSpecified,Location 61,Region 3,21250,07/07/2017,23:06:08,2200,Active
+65,Product B,Male,Location 13,Region 6,17600,06/03/2019,00:45:01,2200,Active
+66,Product A,Female,Location 101,Region 1,23250,04/08/2019,01:15:18,5000,Active
+67,Product A,Male,Location 185,Region 7,23250,27/05/2019,03:16:33,5000,Active
+68,Product D,Female,Location 129,Region 3,21250,09/04/2017,10:55:50,2200,Active
+69,Product A,Female,Location 113,Region 6,21250,17/12/2019,07:04:26,2200,Active
+70,Product B,Male,Location 62,Region 6,17600,11/11/2018,08:58:34,2200,Active
+71,Product C,Female,Location 235,Region 1,16600,07/08/2016,19:24:29,1000,Active
+72,Product B,Male,Location 3,Region 6,17600,16/09/2018,06:36:09,2200,Active
+73,Product B,Male,Location 142,Region 16,17600,17/04/2018,09:52:36,2200,Active
+74,Product A,Male,Location 50,Region 5,23250,25/04/2020,14:17:34,5000,Active
+75,Product A,Male,Location 76,Region 1,21750,14/09/2019,22:25:10,3000,Active
+76,Product A,Male,Location 11,Region 2,23250,11/09/2019,12:36:06,5000,Active
+77,Product A,Male,Location 75,Region 2,20250,31/01/2020,13:06:45,1000,Active
+78,Product D,Male,Location 33,Region 6,21250,28/07/2017,22:26:37,2200,Active
+79,Product D,Female,Location 22,Region 6,21250,05/11/2017,13:59:29,2200,Active
+80,Product D,Male,Location 145,Region 3,21250,29/08/2017,05:30:58,2200,Active
+81,Product A,NotSpecified,Location 44,Region 2,20250,28/11/2019,12:50:36,1000,Active
+82,Product B,Female,Location 203,Region 1,17600,10/06/2018,19:48:39,2200,Active
+83,Product A,Female,Location 13,Region 2,23250,05/06/2019,21:42:37,5000,Active
+84,Product D,Male,Location 94,Region 6,21250,22/07/2017,04:56:28,2200,Active
+85,Product B,Female,Location 26,Region 3,17600,16/03/2018,23:39:32,2200,Active
+86,Product A,Male,Location 94,Region 2,20250,03/06/2020,01:40:43,1000,Active
+87,Product A,Female,Location 62,Region 7,23250,06/12/2019,04:29:44,5000,Active
+88,Product C,Male,Location 573,Region 4,17600,27/04/2018,05:29:27,2200,Active
+89,Product A,Male,Location 27,Region 5,20250,21/12/2019,16:10:32,1000,Active
+90,Product B,Male,Location 17,Region 3,17600,23/12/2018,21:05:21,2200,
+91,Product A,Male,Location 186,Region 7,,30/05/2019,01:48:53,5000,Active
+92,Product D,Male,Location 27,Region 3,21250,22/04/2017,00:53:21,2200,Active
+93,Product B,Male,Location 4,Region 1,17600,26/10/2018,18:28:30,2200,Active
+94,Product B,Male,Location 377,Region 6,17600,15/04/2019,22:51:15,2200,Active
+95,Product A,Female,Location 73,Region 2,20250,09/08/2019,04:33:00,1000,Active
+96,Product B,Female,Location 4,Region 7,17600,11/05/2019,12:30:03,2200,Active
+97,Product B,Female,Location 70,Region 3,17600,01/06/2018,01:39:14,2200,Active
+98,Product A,Male,Location 45,Region 4,23250,25/12/2019,21:29:35,5000,Active
+99,Product A,Male,Location 3,Region 4,23250,23/07/2019,11:16:19,5000,Active
+100,Product B,Female,Location 262,Region 1,17600,30/08/2018,15:51:41,2200,Active
+101,Product B,Male,Location 91,Region 2,17600,03/02/2018,22:51:51,2200,Active
+102,Product A,Female,Location 111,Region 2,20250,29/02/2020,11:18:10,1000,Active
+103,Product B,Female,Location 84,Region 3,17600,15/05/2019,20:04:22,2200,Active
+104,Product A,Male,Location 25,Region 6,23250,28/08/2019,23:10:36,5000,Active
+105,Product A,Male,Location 108,Region 3,20250,08/02/2020,05:23:20,1000,Active
+106,Product B,Male,Location 58,Region 2,17600,11/03/2018,09:57:49,2200,Active
+107,Product B,Male,Location 48,Region 6,17600,26/03/2019,08:13:25,2200,Active
+108,Product A,Female,Location 7,Region 3,20250,13/08/2019,23:06:08,1000,Active
+109,Product B,Female,Location 87,Region 1,17600,05/05/2018,00:45:01,2200,Active
+110,Product A,Male,Location 74,Region 2,23250,23/05/2019,01:15:18,5000,Active
+111,Product B,Male,Location 17,Region 1,17600,24/02/2018,03:16:33,2200,Active
+112,Product C,Male,Location 53,Region 6,16600,10/12/2016,10:55:50,1000,Active
+113,Product B,Male,Location 53,Region 6,17600,07/11/2018,07:04:26,2200,Active
+114,Product D,Female,Location 73,Region 6,21250,16/12/2017,08:58:34,2200,Active
+115,Product B,Male,Location 4,Region 3,17600,29/04/2019,19:24:29,2200,Active
+116,Product A,Male,Location 73,Region 1,20250,07/05/2020,06:36:09,1000,Active
+117,Product A,Female,Location 450,Region 4,20250,06/05/2020,09:52:36,1000,Active
+118,Product A,Female,Location 48,Region 2,20250,22/11/2019,14:17:34,1000,Active
+119,Product C,NotSpecified,Location 47,Region 3,16600,26/06/2016,22:25:10,1000,Active
+120,Product A,Male,Location 37,Region 3,23250,30/07/2019,12:36:06,5000,Active
+121,Product A,Male,Location 6,Region 4,23250,03/08/2019,13:06:45,5000,Active
+122,Product B,Female,Location 43,Region 2,17600,09/04/2018,22:26:37,2200,Active
+123,Product D,NotSpecified,Location 19,Region 6,21250,09/07/2017,13:59:29,2200,Active
+124,Product B,Female,Location 25,Region 6,17600,25/07/2018,05:30:58,2200,Active
+125,Product B,Male,Location 286,Region 6,17600,16/08/2018,12:50:36,2200,Active
+126,Product A,Female,Location 11,Region 1,21750,11/09/2019,19:48:39,3000,Active
+127,Product A,Male,Location 89,Region 2,21250,30/07/2020,21:42:37,2200,
+128,Product B,NotSpecified,Location 24,Region 2,17600,31/10/2018,04:56:28,2200,Active
+129,Product B,Female,Location 97,Region 6,17600,05/06/2018,23:39:32,2200,Active
+130,Product B,Male,Location 144,Region 3,17600,15/02/2019,01:40:43,2200,Active
+131,Product C,Male,Location 40,Region 1,16600,18/01/2017,04:29:44,1000,Active
+132,Product B,Female,Location 3,Region 2,17600,25/04/2019,05:29:27,2200,Active
+133,Product C,Male,Location 128,Region 6,16600,24/07/2016,16:10:32,1000,Active
+134,Product A,Male,Location 19,Region 2,20250,28/12/2019,21:05:21,1000,Active
+135,Product D,Male,Location 46,Region 6,17600,17/02/2018,01:48:53,2200,Active
+136,Product B,Male,Location 73,Region 7,17600,23/03/2018,00:53:21,2200,Active
+137,Product D,Male,Location 169,Region 2,21250,18/05/2017,18:28:30,2200,Active
+138,Product A,Male,Location 399,Region 2,20250,05/02/2020,22:51:15,1000,Active
+139,Product C,Female,Location 23,Region 6,16600,12/08/2016,04:33:00,1000,Active
+140,Product B,Female,Location 191,Region 3,17600,23/04/2019,12:30:03,2200,Active
+141,Product B,Male,Location 38,Region 1,17600,20/03/2019,01:39:14,2200,Active
+142,Product B,Male,Location 142,Region 3,17600,05/05/2018,21:29:35,2200,Active
+143,Product C,Male,Location 8,Region 9,16600,03/08/2016,11:16:19,1000,Active
+144,Product B,Male,Location 178,Region 2,17600,26/10/2018,15:51:41,2200,Active
+145,Product C,Female,Location 8,Region 2,16600,11/05/2016,22:51:51,1000,Active
+146,Product A,Male,Location 510,Region 3,20250,20/01/2020,11:18:10,1000,Active
+147,Product A,Male,Location 19,Region 7,23250,13/03/2020,20:04:22,5000,Active
+148,Product A,Female,Location 25,Region 3,21250,14/07/2020,23:10:36,2200,Active
+149,Product A,Female,Location 600,Region 1,20250,06/10/2019,05:23:20,1000,Active
+150,Product A,Male,Location 62,Region 8,23250,08/10/2019,09:57:49,5000,Active
+151,Product B,Male,Location 188,Region 5,17600,21/08/2018,08:13:25,2200,Active
+152,Product A,Male,Location 67,Region 1,23250,03/11/2019,23:06:08,5000,Active
+153,Product E,Female,Location 49,Region 6,55625,22/07/2020,00:45:01,8000,Active
+154,Product E,Male,Location 29,Region 3,55625,08/01/2020,01:15:18,8000,Active
+155,Product B,NotSpecified,Location 17,Region 2,17600,18/12/2018,03:16:33,2200,Active
+156,Product A,Female,Location 62,Region 3,23250,11/03/2020,10:55:50,5000,Active
+157,Product A,Female,Location 53,Region 3,23250,08/06/2019,07:04:26,5000,Active
+158,Product A,Male,Location 75,Region 6,23250,22/12/2019,08:58:34,5000,Active
+159,Product A,Female,Location 214,Region 6,23250,03/09/2019,19:24:29,5000,Active
+160,Product C,Female,Location 70,Region 3,16600,20/07/2016,06:36:09,1000,
+161,Product A,Male,Location 377,Region 3,,21/12/2019,09:52:36,1000,Active
+162,Product B,Female,Location 222,Region 6,17600,29/01/2019,14:17:34,2200,Active
+163,Product A,Female,Location 3,Region 10,23250,11/03/2020,22:25:10,5000,Active
+164,Product D,Female,Location 386,Region 3,21250,16/08/2017,12:36:06,2200,Active
+165,Product A,Female,Location 88,Region 1,23250,06/06/2019,13:06:45,5000,Active
+166,Product B,Male,Location 104,Region 3,17600,29/09/2018,22:26:37,2200,Active
+167,Product A,Female,Location 21,Region 2,20250,26/03/2020,13:59:29,1000,Active
+168,Product A,NotSpecified,Location 405,Region 3,21250,17/12/2019,05:30:58,2200,Active
+169,Product B,Male,Location 6,Region 2,17600,13/09/2018,12:50:36,2200,Active
+170,Product D,Male,Location 62,Region 1,21250,24/05/2017,19:48:39,2200,Active
+171,Product B,Male,Location 114,Region 2,17600,30/08/2018,21:42:37,2200,Active
+172,Product B,Male,Location 259,Region 2,17600,04/05/2018,04:56:28,2200,Active
+173,Product D,Female,Location 13,Region 1,21250,12/11/2017,23:39:32,2200,Active
+174,Product A,NotSpecified,Location 182,Region 1,21250,07/01/2020,01:40:43,2200,Active
+175,Product B,Male,Location 12,Region 3,17600,18/12/2018,04:29:44,2200,Active
+176,Product A,Male,Location 228,Region 5,21250,27/12/2019,05:29:27,2200,Active
+177,Product A,Female,Location 6,Region 6,20250,07/08/2019,16:10:32,1000,Active
+178,Product B,Female,Location 149,Region 8,17600,09/05/2018,21:05:21,2200,Active
+179,Product A,Female,Location 90,Region 1,21750,04/09/2019,01:48:53,3000,Active
+180,Product D,Male,Location 46,Region 2,21250,19/10/2017,00:53:21,2200,Active
+181,Product A,Male,Location 104,Region 6,23250,31/08/2019,18:28:30,5000,Active
+182,Product B,Male,Location 109,Region 1,17600,20/08/2018,22:51:15,2200,Active
+183,Product A,Female,Location 111,Region 13,21250,16/07/2020,04:33:00,2200,Active
+184,Product D,Female,Location 19,Region 3,21250,30/03/2017,12:30:03,2200,Active
+185,Product B,Female,Location 37,Region 2,17600,31/08/2018,01:39:14,2200,Active
+186,Product A,Male,Location 441,Region 2,21250,03/01/2020,21:29:35,2200,Active
+187,Product A,Male,Location 46,Region 2,21750,28/09/2019,11:16:19,3000,Active
+188,Product B,Male,Location 22,Region 6,17600,23/07/2018,15:51:41,2200,Active
+189,Product B,Male,Location 8,Region 3,17600,16/12/2018,22:51:51,2200,Active
+190,Product A,Female,Location 421,Region 6,23250,12/06/2019,11:18:10,5000,Active
+191,Product A,Female,Location 641,Region 3,23250,28/08/2019,20:04:22,5000,Active
+192,Product A,Male,Location 195,Region 4,23250,11/07/2019,23:10:36,5000,Active
+193,Product B,Male,Location 94,Region 6,17600,04/01/2019,05:23:20,2200,
+194,Product E,Female,Location 30,Region 3,55625,08/06/2020,09:57:49,8000,Active
+195,Product B,Male,Location 44,Region 6,17600,23/05/2018,08:13:25,2200,Active
+196,Product A,Male,Location 20,Region 2,23250,06/06/2019,23:06:08,5000,Active
+197,Product B,Male,Location 26,Region 3,17600,28/11/2018,00:45:01,2200,Active
+198,Product D,Male,Location 22,Region 6,21250,28/08/2017,01:15:18,2200,Active
+199,Product A,Male,Location 161,Region 12,23250,22/06/2020,03:16:33,5000,Active
+200,Product C,Male,Location 117,Region 2,16600,27/05/2016,10:55:50,1000,Active
+201,Product D,Female,Location 4,Region 3,21250,24/06/2017,07:04:26,2200,Active
+202,Product B,Female,Location 200,Region 4,17600,13/05/2018,08:58:34,2200,Active
+203,Product E,Male,Location 10,Region 2,55625,21/12/2019,19:24:29,8000,Active
+204,Product B,NotSpecified,Location 106,Region 2,17600,03/01/2019,06:36:09,2200,Active
+205,Product B,Male,Location 30,Region 3,17600,05/03/2018,09:52:36,2200,Active
+206,Product A,Male,Location 25,Region 4,23250,21/04/2020,14:17:34,5000,Active
+207,Product A,Female,Location 42,Region 2,20250,07/02/2020,22:25:10,1000,Active
+208,Product A,Female,Location 31,Region 3,20250,09/12/2019,12:36:06,1000,Active
+209,Product A,Female,Location 111,Region 6,20250,14/11/2019,13:06:45,1000,Active
+210,Product A,Male,Location 48,Region 3,23250,10/06/2020,22:26:37,5000,Active
+211,Product C,Female,Location 44,Region 3,16600,31/12/2016,13:59:29,1000,Active
+212,Product A,Male,Location 89,Region 6,23250,06/09/2019,05:30:58,5000,Active
+213,Product C,Female,Location 122,Region 1,16600,24/09/2016,12:50:36,1000,Active
+214,Product B,Male,Location 541,Region 2,17600,24/05/2018,19:48:39,2200,Active
+215,Product A,Female,Location 67,Region 3,23250,30/05/2019,21:42:37,5000,Active
+216,Product A,Female,Location 111,Region 3,23250,27/03/2020,04:56:28,5000,Active
+217,Product B,Male,Location 87,Region 3,17600,10/05/2018,23:39:32,2200,Active
+218,Product A,Male,Location 495,Region 2,21750,25/09/2019,01:40:43,3000,Active
+219,Product A,Female,Location 193,Region 15,20250,23/04/2020,04:29:44,1000,Active
+220,Product B,Male,Location 39,Region 2,17600,23/04/2019,05:29:27,2200,Active
+221,Product B,Male,Location 25,Region 7,,08/03/2018,16:10:32,2200,Active
+222,Product B,Male,Location 26,Region 1,17600,27/12/2018,21:05:21,2200,Active
+223,Product A,Female,Location 9,Region 2,23250,03/09/2019,01:48:53,5000,Active
+224,Product A,Female,Location 86,Region 6,20250,01/01/2020,00:53:21,1000,Active
+225,Product B,Male,Location 107,Region 4,17600,19/11/2018,18:28:30,2200,Active
+226,Product B,Male,Location 44,Region 2,17600,06/02/2019,22:51:15,2200,Active
+227,Product A,Female,Location 25,Region 6,20250,20/10/2019,04:33:00,1000,Active
+228,Product A,Male,Location 198,Region 1,20250,21/04/2020,12:30:03,1000,Active
+229,Product B,Male,Location 34,Region 3,17600,10/03/2018,01:39:14,2200,
+230,Product D,Male,Location 46,Region 2,21250,28/09/2017,21:29:35,2200,Active
+231,Product A,Female,Location 318,Region 2,23250,21/06/2019,11:16:19,5000,Active
+232,Product C,Female,Location 11,Region 3,16600,15/03/2017,15:51:41,1000,Active
+233,Product B,Female,Location 104,Region 1,17600,05/09/2018,22:51:51,2200,Active
+234,Product B,Male,Location 135,Region 3,17600,22/03/2018,11:18:10,2200,Active
+235,Product E,Male,Location 113,Region 2,55625,22/04/2020,20:04:22,8000,Active
+236,Product A,Male,Location 177,Region 2,20250,26/05/2020,23:10:36,1000,
+237,Product A,Male,Location 87,Region 3,23250,04/06/2019,05:23:20,5000,Active
+238,Product B,Female,Location 94,Region 2,17600,23/04/2019,09:57:49,2200,Active
+239,Product A,Female,Location 25,Region 3,23250,13/06/2019,08:13:25,5000,Active
+240,Product A,Male,Location 25,Region 6,20250,28/03/2020,23:06:08,1000,Active
+241,Product A,Male,Location 32,Region 3,20250,24/03/2020,00:45:01,1000,Active
+242,Product A,Male,Location 591,Region 6,21750,27/09/2019,01:15:18,3000,Active
+243,Product A,NotSpecified,Location 6,Region 6,21750,17/09/2019,03:16:33,3000,Active
+244,Product B,Male,Location 39,Region 6,17600,22/04/2018,10:55:50,2200,Active
+245,Product B,Male,Location 218,Region 6,17600,09/01/2019,07:04:26,2200,Active
+246,Product A,Male,Location 488,Region 6,23250,27/10/2019,08:58:34,5000,Active
+247,Product B,NotSpecified,Location 142,Region 3,17600,23/04/2018,19:24:29,2200,Active
+248,Product B,Male,Location 418,Region 6,17600,14/07/2018,06:36:09,2200,Active
+249,Product B,NotSpecified,Location 34,Region 10,17600,01/11/2018,09:52:36,2200,Active
+250,Product B,Female,Location 50,Region 4,17600,28/08/2018,14:17:34,2200,Active
+251,Product C,Female,Location 84,Region 6,16600,01/11/2016,22:25:10,1000,Active
+252,Product A,Female,Location 39,Region 6,20250,20/11/2019,12:36:06,1000,Active
+253,Product D,Female,Location 149,Region 6,21250,05/05/2017,13:06:45,2200,Active
+254,Product A,Male,Location 49,Region 3,23250,16/02/2020,22:26:37,5000,Active
+255,Product A,Female,Location 58,Region 2,20250,17/11/2019,13:59:29,1000,Active
+256,Product A,Male,Location 32,Region 7,23250,22/07/2019,05:30:58,5000,Active
+257,Product A,Female,Location 44,Region 6,23250,21/02/2020,12:50:36,5000,Active
+258,Product A,Male,Location 587,Region 3,23250,23/08/2019,19:48:39,5000,Active
+259,Product B,Female,Location 129,Region 15,17600,23/01/2018,21:42:37,2200,Active
+260,Product D,Male,Location 26,Region 4,21250,23/06/2017,04:56:28,2200,Active
+261,Product B,Male,Location 58,Region 6,17600,27/10/2018,23:39:32,2200,Active
+262,Product B,Male,Location 454,Region 6,17600,02/08/2018,01:40:43,2200,Active
+263,Product B,Male,Location 45,Region 5,17600,08/11/2018,04:29:44,2200,
+264,Product A,Female,Location 30,Region 15,20250,07/12/2019,05:29:27,1000,Active
+265,Product B,NotSpecified,Location 22,Region 11,17600,07/06/2018,16:10:32,2200,Active
+266,Product B,NotSpecified,Location 19,Region 4,17600,16/02/2018,21:05:21,2200,Active
+267,Product C,Male,Location 88,Region 6,16600,06/03/2017,01:48:53,1000,Active
+268,Product B,Female,Location 8,Region 1,17600,03/10/2018,00:53:21,2200,Active
+269,Product A,Male,Location 62,Region 4,23250,26/07/2019,18:28:30,5000,Active
+270,Product A,Male,Location 26,Region 3,20250,13/10/2019,22:51:15,1000,Active
+271,Product A,Female,Location 91,Region 2,,02/01/2020,04:33:00,5000,Active
+272,Product A,Male,Location 97,Region 3,23250,01/02/2020,12:30:03,5000,Active
+273,Product C,Female,Location 114,Region 7,16600,05/01/2017,01:39:14,1000,Active
+274,Product C,Male,Location 61,Region 2,16600,11/08/2016,21:29:35,1000,Active
+275,Product B,Male,Location 233,Region 3,17600,24/01/2018,11:16:19,2200,Active
+276,Product A,Male,Location 30,Region 2,20250,09/08/2019,15:51:41,1000,Active
+277,Product B,NotSpecified,Location 49,Region 6,17600,27/03/2018,22:51:51,2200,Active
+278,Product E,Female,Location 78,Region 3,55625,20/02/2020,11:18:10,8000,Active
+279,Product B,Male,Location 61,Region 1,17600,23/05/2018,20:04:22,2200,Active
+280,Product B,Male,Location 543,Region 7,17600,21/06/2018,23:10:36,2200,Active
+281,Product B,Female,Location 25,Region 3,17600,08/04/2019,05:23:20,2200,Active
+282,Product A,Male,Location 88,Region 1,20250,27/12/2019,09:57:49,1000,Active
+283,Product A,Male,Location 3,Region 6,23250,13/07/2019,08:13:25,5000,
+284,Product A,Male,Location 489,Region 6,23250,11/04/2020,23:06:08,5000,Active
+285,Product B,Male,Location 30,Region 6,17600,23/07/2018,00:45:01,2200,Active
+286,Product A,Male,Location 60,Region 1,20250,12/11/2019,01:15:18,1000,Active
+287,Product A,Female,Location 67,Region 4,20250,07/06/2020,03:16:33,1000,Active
+288,Product C,Male,Location 52,Region 5,16600,07/02/2017,10:55:50,1000,Active
+289,Product E,Male,Location 38,Region 1,55625,06/05/2020,07:04:26,8000,Active
+290,Product B,Female,Location 11,Region 3,17600,05/10/2018,08:58:34,2200,Active
+291,Product B,Male,Location 113,Region 12,17600,30/10/2018,19:24:29,2200,Active
+292,Product C,Male,Location 548,Region 8,16600,31/01/2017,06:36:09,1000,Active
+293,Product D,Male,Location 161,Region 3,21250,10/11/2017,09:52:36,2200,Active
+294,Product A,Female,Location 15,Region 1,20250,11/11/2019,14:17:34,1000,Active
+295,Product A,Female,Location 240,Region 4,20250,12/03/2020,22:25:10,1000,Active
+296,Product C,Male,Location 658,Region 3,16600,31/01/2017,12:36:06,1000,Active
+297,Product C,Female,Location 94,Region 7,16600,05/02/2017,13:06:45,1000,Active
+298,Product A,Female,Location 67,Region 1,20250,18/05/2020,22:26:37,1000,Active
+299,Product B,Male,Location 10,Region 6,17600,31/03/2019,13:59:29,2200,Active
+300,Product D,Male,Location 113,Region 2,21250,26/09/2017,05:30:58,2200,Active
+301,Product A,Female,Location 73,Region 2,21750,27/09/2019,12:50:36,3000,Active
+302,Product B,NotSpecified,Location 87,Region 3,17600,19/02/2019,19:48:39,2200,Active
+303,Product B,Male,Location 209,Region 2,17600,20/02/2018,21:42:37,2200,Active
+304,Product B,Male,Location 151,Region 2,17600,24/11/2018,04:56:28,2200,Active
+305,Product A,Male,Location 12,Region 2,23250,29/05/2019,23:39:32,5000,Active
+306,Product B,Male,Location 53,Region 3,17600,20/04/2018,01:40:43,2200,Active
+307,Product A,Male,Location 26,Region 2,23250,31/12/2019,04:29:44,5000,Active
+308,Product A,Male,Location 192,Region 1,21250,16/01/2020,05:29:27,2200,Active
+309,Product B,Male,Location 364,Region 6,17600,12/01/2019,16:10:32,2200,Active
+310,Product A,Male,Location 33,Region 6,20250,12/01/2020,21:05:21,1000,Active
+311,Product A,Female,Location 30,Region 1,23250,31/05/2019,01:48:53,5000,Active
+312,Product B,Male,Location 39,Region 4,17600,01/06/2019,00:53:21,2200,Active
+313,Product C,Male,Location 18,Region 7,16600,15/11/2016,18:28:30,1000,Active
+314,Product B,Female,Location 45,Region 6,17600,13/04/2019,22:51:15,2200,Active
+315,Product B,Male,Location 8,Region 3,17600,03/10/2018,04:33:00,2200,Active
+316,Product C,Female,Location 503,Region 3,16600,09/12/2016,12:30:03,1000,Active
+317,Product B,Male,Location 46,Region 3,17600,23/02/2019,01:39:14,2200,Active
+318,Product D,Male,Location 61,Region 4,21250,06/06/2017,21:29:35,2200,Active
+319,Product A,Male,Location 19,Region 6,20250,24/04/2020,11:16:19,1000,Active
+320,Product D,Male,Location 70,Region 3,21250,09/01/2018,15:51:41,2200,Active
+321,Product B,Male,Location 482,Region 7,17600,24/02/2018,22:51:51,2200,Active
+322,Product A,Male,Location 30,Region 6,23250,07/03/2020,11:18:10,5000,Active
+323,Product B,Female,Location 460,Region 2,17600,24/01/2019,20:04:22,2200,Active
+324,Product A,Male,Location 67,Region 6,23250,07/06/2020,23:10:36,5000,Active
+325,Product A,Male,Location 22,Region 3,23250,15/08/2019,05:23:20,5000,Active
+326,Product A,Female,Location 60,Region 3,20250,13/12/2019,09:57:49,1000,Active
+327,Product E,Male,Location 37,Region 3,55625,10/04/2020,08:13:25,8000,Active
+328,Product C,Male,Location 71,Region 3,14775,06/01/2018,23:06:08,1000,Active
+329,Product B,Male,Location 91,Region 3,17600,23/04/2018,00:45:01,2200,Active
+330,Product B,Male,Location 10,Region 6,16300,24/03/2019,01:15:18,2200,Active
+331,Product A,Female,Location 46,Region 3,,02/10/2019,03:16:33,5000,Active
+332,Product A,Male,Location 8,Region 6,20450,02/10/2019,10:55:50,3000,Active
+333,Product B,Male,Location 377,Region 5,16300,07/04/2018,07:04:26,2200,
+334,Product A,Female,Location 3,Region 8,18950,24/01/2020,08:58:34,1000,Active
+335,Product A,Male,Location 350,Region 4,21950,05/07/2019,19:24:29,5000,Active
+336,Product A,Male,Location 350,Region 2,19950,31/07/2020,06:36:09,2200,Active
+337,Product A,Female,Location 3,Region 6,21950,12/02/2020,09:52:36,5000,Active
+338,Product A,Female,Location 69,Region 10,18950,19/12/2019,14:17:34,1000,Active
+339,Product B,Female,Location 21,Region 1,16300,28/07/2018,22:25:10,2200,Active
+340,Product C,Male,Location 30,Region 3,15300,09/02/2017,12:36:06,1000,Active
+341,Product A,Male,Location 258,Region 1,19950,30/06/2020,13:06:45,2200,Active
+342,Product A,Male,Location 204,Region 3,21950,22/05/2019,22:26:37,5000,Active
+343,Product A,Female,Location 124,Region 6,21950,27/12/2019,13:59:29,5000,Active
+344,Product B,NotSpecified,Location 62,Region 6,16300,06/12/2018,05:30:58,2200,Active
+345,Product A,Male,Location 168,Region 2,21950,10/03/2020,12:50:36,5000,Active
+346,Product D,Male,Location 35,Region 13,19950,13/10/2017,19:48:39,2200,Active
+347,Product B,Female,Location 89,Region 6,16300,31/12/2018,21:42:37,2200,Active
+348,Product A,Male,Location 296,Region 3,21950,20/06/2020,04:56:28,5000,Active
+349,Product A,Male,Location 17,Region 1,18950,12/11/2019,23:39:32,1000,Active
+350,Product B,Male,Location 144,Region 1,16300,20/10/2018,01:40:43,2200,Active
+351,Product B,Male,Location 111,Region 6,16300,30/01/2019,04:29:44,2200,Active
+352,Product C,Male,Location 30,Region 2,15300,27/08/2016,05:29:27,1000,Active
+353,Product A,Female,Location 111,Region 7,18950,21/11/2019,16:10:32,1000,Active
+354,Product B,Male,Location 29,Region 1,16300,14/12/2018,21:05:21,2200,Active
+355,Product A,NotSpecified,Location 6,Region 6,19950,13/12/2019,01:48:53,2200,Active
+356,Product B,Female,Location 136,Region 3,16300,24/01/2019,00:53:21,2200,Active
+357,Product A,Male,Location 91,Region 6,21950,05/06/2020,18:28:30,5000,Active
+358,Product B,Female,Location 86,Region 3,16300,29/03/2019,22:51:15,2200,Active
+359,Product C,Female,Location 23,Region 6,15300,04/12/2016,04:33:00,1000,Active
+360,Product A,Male,Location 91,Region 6,19950,18/07/2020,12:30:03,2200,Active
+361,Product A,Male,Location 88,Region 7,21950,09/12/2019,01:39:14,5000,Active
+362,Product D,Female,Location 28,Region 6,19950,19/12/2017,21:29:35,2200,Active
+363,Product B,Female,Location 86,Region 4,16300,06/05/2019,11:16:19,2200,Active
+364,Product A,Male,Location 91,Region 6,21950,08/09/2019,15:51:41,5000,Active
+365,Product B,Female,Location 25,Region 2,16300,29/03/2018,18:43:04,2200,Active
+366,Product B,NotSpecified,Location 45,Region 2,16300,11/12/2018,02:12:30,2200,Active
+367,Product B,Female,Location 49,Region 2,16300,14/03/2018,07:38:10,2200,Active
+368,Product D,Female,Location 39,Region 6,19950,27/10/2017,08:51:28,2200,Active
+369,Product B,Female,Location 111,Region 2,16300,29/03/2018,08:14:53,2200,Active
+370,Product B,Female,Location 17,Region 6,16300,25/04/2018,05:32:40,2200,Active
+371,Product B,Male,Location 153,Region 6,16300,03/04/2018,10:17:48,2200,Active
+372,Product A,Female,Location 188,Region 14,18950,08/04/2020,19:36:25,1000,Active
+373,Product D,Female,Location 99,Region 2,19950,21/09/2017,01:32:09,2200,
+374,Product B,Female,Location 25,Region 2,16300,20/04/2019,07:07:10,2200,Active
+375,Product B,Female,Location 9,Region 7,16300,29/03/2019,10:27:26,2200,Active
+376,Product A,Male,Location 132,Region 1,21950,04/07/2019,05:20:29,5000,Active
+377,Product A,Female,Location 22,Region 2,18950,14/03/2020,09:54:41,1000,Active
+378,Product A,Female,Location 427,Region 2,21950,22/04/2020,06:51:57,5000,Active
+379,Product B,Female,Location 17,Region 2,16300,05/12/2018,04:21:18,2200,Active
+380,Product A,Female,Location 118,Region 3,18950,09/01/2020,23:10:18,1000,Active
+381,Product A,Male,Location 161,Region 3,,22/04/2020,13:23:53,1000,Active
+382,Product A,Male,Location 460,Region 4,19950,25/01/2020,15:22:10,2200,Active
+383,Product A,Male,Location 45,Region 3,20450,27/09/2019,04:54:42,3000,Active
+384,Product B,Male,Location 87,Region 10,16300,21/04/2018,08:31:11,2200,Active
+385,Product B,Male,Location 21,Region 5,16300,07/10/2018,14:03:10,2200,Active
+386,Product B,Female,Location 127,Region 6,16300,14/03/2018,19:16:17,2200,Active
+387,Product B,Female,Location 145,Region 6,16300,21/08/2018,07:43:15,2200,Active
+388,Product A,Male,Location 69,Region 3,19950,22/07/2020,13:33:16,2200,Active
+389,Product B,Female,Location 30,Region 1,16300,20/02/2019,07:16:01,2200,Active
+390,Product A,Male,Location 49,Region 6,21950,10/06/2020,20:25:08,5000,Active
+391,Product C,NotSpecified,Location 91,Region 6,15300,06/12/2016,03:03:15,1000,
+392,Product B,Male,Location 61,Region 6,16300,14/07/2018,14:24:52,2200,
+393,Product B,Male,Location 159,Region 3,16300,12/05/2018,21:14:38,2200,
+394,Product C,Male,Location 118,Region 4,15300,15/12/2016,04:08:07,1000,
+395,Product B,Female,Location 13,Region 2,16300,02/03/2019,21:04:20,2200,
+396,Product C,Female,Location 84,Region 5,15300,21/10/2016,07:19:27,1000,
+397,Product A,Male,Location 30,Region 6,18950,15/11/2019,23:12:22,1000,
+398,Product A,Female,Location 111,Region 1,19950,21/07/2020,02:48:13,2200,Active
+399,Product B,Male,Location 154,Region 4,16300,08/04/2018,16:02:13,2200,Active
+400,Product B,Female,Location 175,Region 6,16300,25/06/2018,22:43:18,2200,Active
+401,Product B,Male,Location 120,Region 3,16300,07/10/2018,00:48:29,2200,Active
+402,Product B,Female,Location 60,Region 7,16300,07/02/2019,07:38:51,2200,Active
+403,Product C,Male,Location 64,Region 2,15300,15/10/2016,08:01:43,1000,Active
+404,Product B,Female,Location 52,Region 2,16300,05/05/2018,08:35:14,2200,Active
+405,Product A,Female,Location 3,Region 1,18950,29/04/2020,14:12:15,1000,Active
+406,Product B,NotSpecified,Location 82,Region 5,16300,24/02/2018,14:54:20,2200,Active
+407,Product D,Male,Location 152,Region 3,19950,03/06/2017,07:54:29,2200,Active
+408,Product A,NotSpecified,Location 60,Region 3,19950,06/01/2020,15:40:25,2200,Active
+409,Product F,Male,Location 73,Region 6,68925,26/02/2020,00:45:22,8000,Active
+410,Product C,Male,Location 142,Region 2,15300,17/09/2016,19:37:17,1000,Active
+411,Product B,NotSpecified,Location 39,Region 6,16300,07/03/2018,11:35:59,2200,Active
+412,Product B,Male,Location 21,Region 6,16300,23/11/2018,22:51:51,2200,Active
+413,Product B,NotSpecified,Location 74,Region 1,16300,01/08/2018,11:18:10,2200,
+414,Product C,Female,Location 56,Region 6,15300,18/03/2017,20:04:22,1000,Active
+415,Product A,NotSpecified,Location 282,Region 2,21950,01/06/2020,23:10:36,5000,Active
+416,Product A,NotSpecified,Location 113,Region 6,21950,24/07/2019,05:23:20,5000,Active
+417,Product A,NotSpecified,Location 38,Region 6,18950,06/03/2020,09:57:49,1000,Active
+418,Product A,Female,Location 566,Region 6,21950,27/08/2019,08:13:25,5000,Active
+419,Product B,Male,Location 365,Region 3,16300,02/08/2018,23:06:08,2200,Active
+420,Product D,Male,Location 353,Region 7,19950,16/06/2017,00:45:01,2200,Active
+421,Product E,Male,Location 66,Region 1,54325,23/02/2020,01:15:18,8000,Active
+422,Product B,Male,Location 48,Region 6,16300,09/08/2018,03:16:33,2200,Active
+423,Product D,Male,Location 108,Region 3,19950,18/10/2017,10:55:50,2200,Active
+424,Product B,Male,Location 94,Region 4,16300,28/04/2019,07:04:26,2200,Active
+425,Product A,Female,Location 61,Region 3,18950,13/11/2019,08:58:34,1000,Active
+426,Product C,Female,Location 45,Region 6,15300,25/10/2016,19:24:29,1000,Active
+427,Product A,Male,Location 34,Region 6,18950,23/05/2020,06:36:09,1000,Active
+428,Product B,Male,Location 26,Region 2,16300,03/03/2019,09:52:36,2200,Active
+429,Product B,NotSpecified,Location 2,Region 1,16300,28/03/2018,14:17:34,2200,Active
+430,Product A,Male,Location 62,Region 6,18950,05/01/2020,22:25:10,1000,Active
+431,Product A,Female,Location 3,Region 2,,16/01/2020,12:36:06,1000,Active
+432,Product A,NotSpecified,Location 29,Region 7,21950,21/04/2020,13:06:45,5000,Active
+433,Product C,Male,Location 88,Region 13,13475,27/04/2018,22:26:37,1000,Active
+434,Product C,Male,Location 34,Region 2,15300,24/07/2016,13:59:29,1000,Active
+435,Product A,Female,Location 18,Region 2,21950,25/07/2019,05:30:58,5000,Active
+436,Product A,Male,Location 214,Region 3,18950,28/10/2019,12:50:36,1000,Active
+437,Product A,Male,Location 13,Region 1,21950,04/06/2019,19:48:39,5000,Active
+438,Product A,Male,Location 84,Region 3,19950,10/12/2019,21:42:37,2200,Active
+439,Product B,Female,Location 89,Region 6,16300,08/09/2018,04:56:28,2200,Active
+440,Product D,Male,Location 22,Region 2,19950,30/08/2017,23:39:32,2200,Active
+441,Product B,Male,Location 323,Region 2,16300,11/07/2018,01:40:43,2200,Active
+442,Product A,Female,Location 473,Region 6,21950,22/04/2020,04:29:44,5000,Active
+443,Product E,Female,Location 206,Region 6,54325,02/06/2020,05:29:27,8000,Active
+444,Product C,Male,Location 57,Region 13,13475,03/03/2018,16:10:32,1000,Active
+445,Product A,Female,Location 30,Region 6,21950,31/07/2019,21:05:21,5000,Active
+446,Product C,Female,Location 9,Region 2,15300,23/10/2016,01:48:53,1000,Active
+447,Product B,Male,Location 19,Region 2,16300,05/03/2019,00:53:21,2200,Active
+448,Product A,Male,Location 68,Region 3,19950,07/07/2020,18:28:30,2200,Active
+449,Product A,Male,Location 37,Region 3,18950,21/03/2020,22:51:15,1000,Active
+450,Product B,Female,Location 61,Region 6,16300,13/04/2019,04:33:00,2200,Active
+451,Product B,NotSpecified,Location 44,Region 6,16300,11/03/2018,12:30:03,2200,Active
+452,Product C,Male,Location 32,Region 9,15300,31/08/2016,01:39:14,1000,Active
+453,Product A,Female,Location 22,Region 6,19950,03/07/2020,21:29:35,2200,
+454,Product B,Female,Location 145,Region 3,16300,01/05/2019,11:16:19,2200,Active
+455,Product B,Female,Location 9,Region 7,16300,05/06/2018,15:51:41,2200,Active
+456,Product B,Female,Location 30,Region 1,16300,14/05/2019,22:51:51,2200,Active
+457,Product B,Male,Location 44,Region 6,16300,24/12/2018,11:18:10,2200,Active
+458,Product A,Male,Location 62,Region 6,21950,24/05/2020,20:04:22,5000,Active
+459,Product B,Female,Location 60,Region 3,16300,19/06/2018,23:10:36,2200,Active
+460,Product B,Male,Location 4,Region 3,16300,20/04/2018,05:23:20,2200,Active
+461,Product B,Male,Location 6,Region 6,16300,31/12/2018,09:57:49,2200,Active
+462,Product A,Male,Location 73,Region 6,21950,27/08/2019,08:13:25,5000,Active
+463,Product B,Male,Location 69,Region 6,16300,08/03/2019,23:06:08,2200,Active
+464,Product B,Male,Location 166,Region 1,16300,22/05/2018,00:45:01,2200,Active
+465,Product A,Male,Location 87,Region 6,18950,29/10/2019,01:15:18,1000,Active
+466,Product D,Male,Location 1,Region 5,19950,27/04/2017,03:16:33,2200,Active
+467,Product D,Male,Location 227,Region 6,19950,20/05/2017,10:55:50,2200,Active
+468,Product D,Male,Location 70,Region 15,19950,20/10/2017,07:04:26,2200,Active
+469,Product A,Female,Location 79,Region 1,19950,02/07/2020,08:58:34,2200,Active
+470,Product B,Male,Location 4,Region 1,16300,18/07/2018,19:24:29,2200,Active
+471,Product B,Female,Location 296,Region 1,,24/11/2018,06:36:09,2200,Active
+472,Product A,Male,Location 94,Region 4,19950,26/07/2020,09:52:36,2200,Active
+473,Product A,Female,Location 642,Region 3,18950,13/01/2020,14:17:34,1000,Active
+474,Product B,Female,Location 3,Region 2,16300,17/07/2018,22:25:10,2200,Active
+475,Product D,Female,Location 105,Region 6,19950,14/05/2017,12:36:06,2200,Active
+476,Product B,Male,Location 91,Region 3,16300,11/05/2019,13:06:45,2200,Active
+477,Product B,NotSpecified,Location 644,Region 6,16300,23/04/2019,22:26:37,2200,Active
+478,Product A,Female,Location 11,Region 2,18950,13/05/2020,13:59:29,1000,Active
+479,Product B,Female,Location 547,Region 1,16300,15/12/2018,05:30:58,2200,Active
+480,Product B,NotSpecified,Location 84,Region 3,16300,25/02/2019,12:50:36,2200,Active
+481,Product A,Female,Location 61,Region 2,21950,27/06/2019,19:48:39,5000,Active
+482,Product B,Female,Location 637,Region 2,16300,05/08/2018,21:42:37,2200,Active
+483,Product A,Male,Location 97,Region 6,18950,27/10/2019,04:56:28,1000,Blocked
+484,Product B,Male,Location 46,Region 6,16300,24/04/2019,23:39:32,2200,Blocked
+485,Product D,Male,Location 59,Region 10,19950,15/10/2017,01:40:43,2200,Blocked
+486,Product B,Male,Location 574,Region 2,16300,29/03/2018,04:29:44,2200,Blocked
+487,Product B,NotSpecified,Location 26,Region 1,16300,24/05/2018,05:29:27,2200,Blocked
+488,Product A,Male,Location 49,Region 3,18950,12/02/2020,16:10:32,1000,Blocked
+489,Product D,Female,Location 39,Region 6,16300,11/02/2018,21:05:21,2200,Blocked
+490,Product A,Male,Location 20,Region 1,18950,15/03/2020,01:48:53,1000,Blocked
+491,Product A,Male,Location 529,Region 6,19950,21/11/2019,00:53:21,2200,Blocked
+492,Product B,NotSpecified,Location 554,Region 6,16300,19/01/2019,18:28:30,2200,Blocked
+493,Product B,Male,Location 323,Region 2,16300,11/05/2019,22:51:15,2200,
+494,Product A,Male,Location 108,Region 3,18950,27/11/2019,04:33:00,1000,Blocked
+495,Product C,Male,Location 59,Region 2,15300,11/12/2016,12:30:03,1000,Blocked
+496,Product C,Male,Location 114,Region 6,15300,02/06/2016,01:39:14,1000,Finished Payment
+497,Product C,Male,Location 19,Region 6,15300,10/11/2016,21:29:35,1000,Finished Payment
+498,Product B,Female,Location 48,Region 6,16300,08/09/2018,11:16:19,2200,Finished Payment
+499,Product D,Female,Location 275,Region 3,19950,09/11/2017,15:51:41,2200,Finished Payment
+500,Product D,Male,Location 27,Region 3,19950,24/08/2017,22:51:51,2200,Finished Payment
+501,Product C,Male,Location 218,Region 6,15300,12/08/2016,11:18:10,1000,Finished Payment
+502,Product C,Male,Location 17,Region 6,15300,01/10/2016,20:04:22,1000,Finished Payment
+503,Product B,Male,Location 589,Region 4,16300,07/04/2018,23:10:36,2200,Finished Payment
+504,Product C,Male,Location 66,Region 3,15300,04/01/2017,05:23:20,1000,Finished Payment
+505,Product A,Female,Location 4,Region 7,21950,31/12/2019,09:57:49,5000,Finished Payment
+506,Product C,Male,Location 34,Region 6,15300,10/09/2016,08:13:25,1000,Finished Payment
+507,Product B,Female,Location 53,Region 6,16300,23/08/2018,23:06:08,2200,Finished Payment
+508,Product B,Male,Location 66,Region 6,16300,11/09/2018,00:45:01,2200,Finished Payment
+509,Product A,Male,Location 79,Region 4,21950,28/02/2020,01:15:18,5000,Finished Payment
+510,Product B,Male,Location 91,Region 4,16300,19/04/2019,03:16:33,2200,Finished Payment
+511,Product B,Male,Location 160,Region 2,16300,20/12/2018,10:55:50,2200,Finished Payment
+512,Product B,Male,Location 25,Region 4,16300,16/03/2019,07:04:26,2200,Finished Payment
+513,Product C,Male,Location 34,Region 5,15300,27/04/2016,08:58:34,1000,
+514,Product B,Female,Location 410,Region 3,16300,19/11/2018,19:24:29,2200,Finished Payment
+515,Product A,Male,Location 62,Region 1,21950,12/05/2020,06:36:09,5000,Finished Payment
+516,Product A,Male,Location 146,Region 6,21950,14/12/2019,09:52:36,5000,Finished Payment
+517,Product B,Male,Location 91,Region 4,16300,15/04/2019,14:17:34,2200,Finished Payment
+518,Product B,Male,Location 221,Region 1,16300,26/05/2018,22:25:10,2200,Finished Payment
+519,Product D,Male,Location 95,Region 6,19950,22/10/2017,12:36:06,2200,Finished Payment
+520,Product B,Male,Location 50,Region 2,16300,24/02/2018,13:06:45,2200,Finished Payment
+521,Product C,Female,Location 60,Region 3,,02/03/2017,22:26:37,1000,Finished Payment
+522,Product B,Male,Location 62,Region 3,16300,28/01/2019,13:59:29,2200,Finished Payment
+523,Product C,Female,Location 10,Region 7,15300,27/11/2015,05:30:58,1000,Finished Payment
+524,Product A,NotSpecified,Location 265,Region 3,21950,16/01/2020,12:50:36,5000,Finished Payment
+525,Product B,Female,Location 9,Region 6,16300,07/05/2018,19:48:39,2200,Finished Payment
+526,Product B,Male,Location 40,Region 4,16300,11/01/2019,21:42:37,2200,Finished Payment
+527,Product C,NotSpecified,Location 62,Region 6,15300,05/07/2016,04:56:28,1000,Finished Payment
+528,Product C,Female,Location 44,Region 8,15300,04/12/2016,23:39:32,1000,Finished Payment
+529,Product B,Male,Location 111,Region 3,16300,07/03/2018,01:40:43,2200,Finished Payment
+530,Product C,Male,Location 34,Region 6,15300,31/01/2017,04:29:44,1000,Finished Payment
+531,Product A,Male,Location 23,Region 6,21950,16/08/2019,05:29:27,5000,Finished Payment
+532,Product B,Male,Location 2,Region 6,16300,15/02/2018,16:10:32,2200,Finished Payment
+533,Product D,Male,Location 569,Region 15,19950,19/09/2017,21:05:21,2200,Finished Payment
+534,Product C,Female,Location 157,Region 5,15300,28/11/2016,01:48:53,1000,Finished Payment
+535,Product E,NotSpecified,Location 84,Region 3,54325,20/03/2020,00:53:21,8000,Finished Payment
+536,Product B,NotSpecified,Location 3,Region 3,16300,01/03/2019,18:28:30,2200,Finished Payment
+537,Product A,Male,Location 648,Region 7,21950,09/08/2019,22:51:15,5000,Finished Payment
+538,Product C,Male,Location 144,Region 9,15300,28/05/2016,04:33:00,1000,Finished Payment
+539,Product D,NotSpecified,Location 30,Region 8,19950,09/08/2017,12:30:03,2200,
+540,Product D,Male,Location 37,Region 3,19950,10/12/2017,01:39:14,2200,Finished Payment
+541,Product C,Male,Location 50,Region 6,15300,13/01/2017,21:29:35,1000,Finished Payment
+542,Product B,Male,Location 19,Region 4,16300,16/05/2019,11:16:19,2200,Finished Payment
+543,Product B,Male,Location 10,Region 6,16300,11/12/2018,15:51:41,2200,
+544,Product B,Female,Location 146,Region 3,16300,07/02/2018,22:51:51,2200,Finished Payment
+545,Product A,Male,Location 2,Region 1,21950,28/05/2019,11:18:10,5000,Finished Payment
+546,Product C,Male,Location 40,Region 1,15300,19/04/2017,20:04:22,1000,Finished Payment
+547,Product A,NotSpecified,Location 34,Region 7,21950,27/06/2019,23:10:36,5000,Finished Payment
+548,Product D,Female,Location 78,Region 2,19950,22/08/2017,05:23:20,2200,Finished Payment
+549,Product C,NotSpecified,Location 53,Region 6,15300,30/12/2016,09:57:49,1000,Finished Payment
+550,Product B,Male,Location 30,Region 2,16300,08/02/2019,08:13:25,2200,Finished Payment
+551,Product A,NotSpecified,Location 89,Region 4,21950,06/08/2019,23:06:08,5000,Finished Payment
+552,Product A,Male,Location 165,Region 6,21950,28/07/2019,00:45:01,5000,Finished Payment
+553,Product D,Female,Location 22,Region 3,19950,15/08/2017,01:15:18,2200,Finished Payment
+554,Product B,Male,Location 651,Region 7,16300,03/04/2019,03:16:33,2200,Finished Payment
+555,Product D,Male,Location 20,Region 3,19950,07/06/2017,10:55:50,2200,Finished Payment
+556,Product A,Male,Location 19,Region 3,21950,02/07/2019,07:04:26,5000,Finished Payment
+557,Product D,Female,Location 13,Region 17,19950,18/10/2017,08:58:34,2200,Finished Payment
+558,Product D,Male,Location 13,Region 2,19950,26/11/2017,19:24:29,2200,Finished Payment
+559,Product B,NotSpecified,Location 266,Region 1,16300,06/01/2019,06:36:09,2200,Finished Payment
+560,Product C,Female,Location 266,Region 1,15300,19/03/2017,09:52:36,1000,Finished Payment
+561,Product B,Male,Location 39,Region 6,16300,25/01/2019,14:17:34,2200,Finished Payment
+562,Product C,Male,Location 88,Region 6,15300,18/04/2017,22:25:10,1000,Finished Payment
+563,Product B,Female,Location 77,Region 3,16300,16/10/2018,12:36:06,2200,Finished Payment
+564,Product B,NotSpecified,Location 200,Region 3,16300,12/05/2018,13:06:45,2200,Finished Payment
+565,Product D,Female,Location 34,Region 6,19950,25/05/2017,22:26:37,2200,Finished Payment
+566,Product B,Female,Location 158,Region 6,16300,18/12/2018,13:59:29,2200,Finished Payment
+567,Product A,Female,Location 20,Region 6,21950,05/06/2019,05:30:58,5000,Finished Payment
+568,Product A,Female,Location 336,Region 14,21950,06/06/2020,12:50:36,5000,Finished Payment
+569,Product E,Male,Location 72,Region 3,54325,29/10/2019,19:48:39,8000,Finished Payment
+570,Product B,Male,Location 463,Region 3,16300,03/07/2018,21:42:37,2200,Finished Payment
+571,Product D,Male,Location 253,Region 1,,15/11/2017,04:56:28,2200,Finished Payment
+572,Product A,Male,Location 5,Region 1,21950,11/06/2019,23:39:32,5000,Finished Payment
+573,Product D,Male,Location 431,Region 2,19950,21/04/2017,01:40:43,2200,Finished Payment
+574,Product C,Male,Location 73,Region 6,15300,13/02/2017,04:29:44,1000,Finished Payment
+575,Product C,Male,Location 64,Region 2,15300,05/03/2017,05:29:27,1000,Finished Payment
+576,Product B,Male,Location 45,Region 1,16300,14/04/2018,16:10:32,2200,Finished Payment
+577,Product D,Female,Location 113,Region 6,19950,08/09/2017,21:05:21,2200,Finished Payment
+578,Product B,Male,Location 39,Region 6,16300,03/10/2018,01:48:53,2200,Finished Payment
+579,Product C,Female,Location 515,Region 6,15300,06/09/2016,00:53:21,1000,Finished Payment
+580,Product D,Male,Location 323,Region 6,19950,20/09/2017,18:28:30,2200,Finished Payment
+581,Product C,Female,Location 22,Region 6,15300,26/08/2016,22:51:15,1000,Finished Payment
+582,Product B,Female,Location 226,Region 6,16300,16/01/2019,04:33:00,2200,Finished Payment
+583,Product A,Female,Location 26,Region 3,21950,19/02/2020,12:30:03,5000,
+584,Product C,Male,Location 26,Region 1,15300,20/01/2017,01:39:14,1000,Finished Payment
+585,Product A,NotSpecified,Location 22,Region 2,21950,04/08/2019,21:29:35,5000,Finished Payment
+586,Product A,Male,Location 94,Region 6,21950,31/01/2020,11:16:19,5000,Finished Payment
+587,Product A,Male,Location 69,Region 3,18950,23/11/2019,15:51:41,1000,Finished Payment
+588,Product C,Female,Location 135,Region 6,15300,02/12/2016,22:51:51,1000,Finished Payment
+589,Product C,Female,Location 233,Region 6,15300,15/03/2016,11:18:10,1000,Finished Payment
+590,Product B,Male,Location 94,Region 6,16300,27/03/2019,20:04:22,2200,Finished Payment
+591,Product A,Male,Location 253,Region 6,18950,05/08/2019,23:10:36,1000,Finished Payment
+592,Product B,Male,Location 140,Region 2,16300,07/05/2018,05:23:20,2200,Finished Payment
+593,Product B,Male,Location 39,Region 2,16300,21/04/2019,09:57:49,2200,Finished Payment
+594,Product D,Male,Location 26,Region 6,19950,23/09/2017,08:13:25,2200,Finished Payment
+595,Product A,Male,Location 515,Region 6,21950,18/10/2019,23:06:08,5000,Finished Payment
+596,Product B,Male,Location 110,Region 1,16300,28/05/2018,00:45:01,2200,Finished Payment
+597,Product A,Female,Location 127,Region 2,18950,10/12/2019,01:15:18,1000,Finished Payment
+598,Product C,Male,Location 73,Region 6,15300,30/11/2016,03:16:33,1000,Finished Payment
+599,Product B,Male,Location 95,Region 3,16300,21/08/2018,10:55:50,2200,Finished Payment
+600,Product A,Female,Location 202,Region 7,21950,17/12/2019,07:04:26,5000,Finished Payment
+601,Product D,Male,Location 140,Region 1,19950,16/04/2017,08:58:34,2200,Finished Payment
+602,Product D,Male,Location 634,Region 2,19950,23/12/2017,19:24:29,2200,Finished Payment
+603,Product B,Female,Location 25,Region 2,16300,30/04/2019,06:36:09,2200,Finished Payment
+604,Product A,Female,Location 6,Region 3,18950,13/01/2020,09:52:36,1000,Finished Payment
+605,Product D,Male,Location 25,Region 12,19950,14/12/2017,14:17:34,2200,Finished Payment
+606,Product A,Male,Location 53,Region 2,20450,25/09/2019,22:25:10,3000,Finished Payment
+607,Product C,Male,Location 69,Region 3,15300,08/02/2017,12:36:06,1000,Finished Payment
+608,Product C,Male,Location 138,Region 3,15300,12/02/2017,13:06:45,1000,Finished Payment
+609,Product B,Male,Location 86,Region 6,16300,01/02/2018,22:26:37,2200,Finished Payment
+610,Product B,Female,Location 62,Region 3,16300,07/06/2018,13:59:29,2200,Finished Payment
+611,Product D,Male,Location 67,Region 1,19950,30/03/2017,05:30:58,2200,Finished Payment
+612,Product A,Male,Location 6,Region 1,21950,17/07/2019,12:50:36,5000,Finished Payment
+613,Product D,Male,Location 95,Region 8,19950,21/09/2017,19:48:39,2200,Finished Payment
+614,Product A,Male,Location 39,Region 14,18950,18/02/2020,21:42:37,1000,Finished Payment
+615,Product C,Male,Location 30,Region 6,15300,02/08/2016,04:56:28,1000,Finished Payment
+616,Product B,Male,Location 30,Region 3,16300,20/05/2019,23:39:32,2200,Finished Payment
+617,Product A,Male,Location 23,Region 3,21950,27/08/2019,01:40:43,5000,Finished Payment
+618,Product B,Male,Location 21,Region 2,16300,04/01/2019,04:29:44,2200,Finished Payment
+619,Product A,Female,Location 217,Region 2,18950,11/02/2020,05:29:27,1000,Finished Payment
+620,Product C,Female,Location 84,Region 7,15300,24/08/2016,16:10:32,1000,Finished Payment
+621,Product A,Female,Location 443,Region 6,,07/06/2019,21:05:21,5000,Finished Payment
+622,Product C,Female,Location 195,Region 1,15300,16/12/2016,01:48:53,1000,Finished Payment
+623,Product B,Male,Location 86,Region 6,16300,17/03/2018,00:53:21,2200,Finished Payment
+624,Product C,Male,Location 10,Region 6,15300,12/07/2016,18:28:30,1000,Finished Payment
+625,Product B,Female,Location 113,Region 18,16300,21/03/2018,22:51:15,2200,Finished Payment
+626,Product A,Male,Location 32,Region 3,21950,21/07/2019,04:33:00,5000,Finished Payment
+627,Product A,Female,Location 9,Region 2,21950,05/06/2020,12:30:03,5000,Finished Payment
+628,Product B,NotSpecified,Location 627,Region 2,16300,30/11/2018,01:39:14,2200,Finished Payment
+629,Product C,Male,Location 19,Region 6,15300,27/12/2016,21:29:35,1000,Finished Payment
+630,Product D,Male,Location 11,Region 3,19950,12/10/2017,11:16:19,2200,Finished Payment
+631,Product B,NotSpecified,Location 113,Region 1,16300,14/03/2019,15:51:41,2200,Finished Payment
+632,Product B,Male,Location 113,Region 2,16300,16/04/2019,22:51:51,2200,Finished Payment
+633,Product B,Female,Location 123,Region 6,16300,13/06/2018,11:18:10,2200,
+634,Product A,Male,Location 70,Region 6,21950,20/07/2019,20:04:22,5000,Finished Payment
+635,Product B,Male,Location 158,Region 3,16300,16/04/2019,23:10:36,2200,Finished Payment
+636,Product A,Male,Location 8,Region 2,18950,30/04/2020,05:23:20,1000,Finished Payment
+637,Product B,Male,Location 23,Region 6,16300,13/04/2018,09:57:49,2200,Finished Payment
+638,Product B,Male,Location 1,Region 7,16300,23/03/2018,08:13:25,2200,Finished Payment
+639,Product C,Female,Location 528,Region 2,15300,05/10/2016,23:06:08,1000,Finished Payment
+640,Product C,Female,Location 44,Region 6,15300,27/09/2016,00:45:01,1000,Finished Payment
+641,Product B,Male,Location 357,Region 2,16300,09/01/2019,01:15:18,2200,Finished Payment
+642,Product B,NotSpecified,Location 187,Region 4,16300,30/01/2019,03:16:33,2200,Finished Payment
+643,Product D,Female,Location 17,Region 1,19950,22/04/2017,10:55:50,2200,Finished Payment
+644,Product D,Male,Location 22,Region 6,19950,15/08/2017,07:04:26,2200,Finished Payment
+645,Product D,Female,Location 46,Region 4,19950,24/08/2017,08:58:34,2200,Finished Payment
+646,Product B,Female,Location 350,Region 6,16300,29/04/2018,19:24:29,2200,Finished Payment
+647,Product D,Male,Location 45,Region 1,19950,03/05/2017,06:36:09,2200,Finished Payment
+648,Product B,Male,Location 111,Region 15,16300,26/02/2018,09:52:36,2200,Finished Payment
+649,Product D,Male,Location 27,Region 7,19950,20/06/2017,14:17:34,2200,Finished Payment
+650,Product B,Female,Location 59,Region 2,16300,28/06/2018,22:25:10,2200,Finished Payment
+651,Product B,Female,Location 2,Region 3,16300,30/03/2019,12:36:06,2200,Finished Payment
+652,Product C,Female,Location 9,Region 2,15300,14/03/2017,13:06:45,1000,Finished Payment
+653,Product B,Female,Location 22,Region 6,16300,19/01/2019,22:26:37,2200,Finished Payment
+654,Product D,Male,Location 6,Region 2,19950,07/12/2017,13:59:29,2200,Finished Payment
+655,Product B,Male,Location 59,Region 2,16300,24/11/2018,05:30:58,2200,Finished Payment
+656,Product B,Male,Location 44,Region 3,16300,15/02/2019,12:50:36,2200,Finished Payment
+657,Product A,Male,Location 91,Region 1,21950,26/07/2019,19:48:39,5000,Finished Payment
+658,Product D,Female,Location 11,Region 1,19950,11/04/2017,21:42:37,2200,Finished Payment
+659,Product B,Male,Location 188,Region 4,16300,07/04/2018,04:56:28,2200,Finished Payment
+660,Product B,Male,Location 58,Region 2,17300,27/03/2019,23:39:32,2200,Finished Payment
+661,Product B,Male,Location 315,Region 1,17300,02/06/2018,01:40:43,2200,Finished Payment
+662,Product D,Male,Location 70,Region 3,20950,29/08/2017,04:29:44,2200,Finished Payment
+663,Product B,NotSpecified,Location 112,Region 1,17300,28/08/2018,05:29:27,2200,Finished Payment
+664,Product C,Female,Location 302,Region 6,16300,08/11/2016,16:10:32,1000,Finished Payment
+665,Product A,Female,Location 25,Region 6,22950,20/08/2019,21:05:21,5000,Finished Payment
+666,Product C,Male,Location 61,Region 16,16300,23/07/2016,01:48:53,1000,Finished Payment
+667,Product C,Male,Location 49,Region 6,16300,30/12/2016,00:53:21,1000,Finished Payment
+668,Product A,Male,Location 194,Region 1,22950,24/11/2019,18:28:30,5000,Finished Payment
+669,Product B,Male,Location 9,Region 6,17300,10/05/2018,22:51:15,2200,Finished Payment
+670,Product C,Male,Location 97,Region 3,16300,17/12/2016,04:33:00,1000,Finished Payment
+671,Product B,Female,Location 23,Region 1,17300,22/04/2018,12:30:03,2200,Finished Payment
+672,Product B,Male,Location 332,Region 6,17300,08/08/2018,01:39:14,2200,Finished Payment
+673,Product B,NotSpecified,Location 579,Region 3,17300,22/12/2018,21:29:35,2200,
+674,Product B,NotSpecified,Location 192,Region 3,17300,18/03/2019,11:16:19,2200,Finished Payment
+675,Product B,Female,Location 38,Region 6,17300,19/03/2019,15:51:41,2200,Finished Payment
+676,Product D,Male,Location 47,Region 5,20950,01/06/2017,22:51:51,2200,Finished Payment
+677,Product C,Female,Location 149,Region 2,16300,05/09/2016,11:18:10,1000,Finished Payment
+678,Product B,Male,Location 208,Region 6,17300,09/09/2018,20:04:22,2200,Finished Payment
+679,Product B,Male,Location 179,Region 6,17300,22/11/2018,23:10:36,2200,Finished Payment
+680,Product C,Female,Location 199,Region 8,16300,25/05/2016,05:23:20,1000,Finished Payment
+681,Product A,Male,Location 53,Region 7,,27/04/2020,09:57:49,5000,Finished Payment
+682,Product A,Male,Location 25,Region 4,19950,10/08/2019,08:13:25,1000,Finished Payment
+683,Product A,NotSpecified,Location 2,Region 6,22950,09/11/2019,23:06:08,5000,Finished Payment
+684,Product B,NotSpecified,Location 201,Region 12,17300,17/06/2018,00:45:01,2200,Finished Payment
+685,Product B,Male,Location 174,Region 6,17300,16/08/2018,01:15:18,2200,Finished Payment
+686,Product B,NotSpecified,Location 52,Region 7,17300,04/12/2018,03:16:33,2200,Finished Payment
+687,Product A,Male,Location 87,Region 3,22950,23/08/2019,10:55:50,5000,Finished Payment
+688,Product A,Male,Location 87,Region 6,22950,30/08/2019,07:04:26,5000,Finished Payment
+689,Product C,Male,Location 38,Region 6,16300,13/01/2017,08:58:34,1000,Finished Payment
+690,Product B,NotSpecified,Location 30,Region 2,17300,27/10/2018,19:24:29,2200,Finished Payment
+691,Product C,Male,Location 62,Region 7,16300,16/12/2016,06:36:09,1000,Finished Payment
+692,Product C,Male,Location 46,Region 4,16300,28/10/2016,09:52:36,1000,Finished Payment
+693,Product A,Male,Location 474,Region 3,22950,19/07/2019,14:17:34,5000,Finished Payment
+694,Product B,Male,Location 192,Region 3,17300,04/08/2018,22:25:10,2200,Finished Payment
+695,Product B,Female,Location 25,Region 4,17300,18/03/2018,12:36:06,2200,Finished Payment
+696,Product B,Male,Location 30,Region 5,17300,23/03/2018,13:06:45,2200,Finished Payment
+697,Product C,Male,Location 184,Region 6,16300,30/09/2016,22:26:37,1000,Finished Payment
+698,Product B,NotSpecified,Location 61,Region 7,17300,28/04/2018,13:59:29,2200,Finished Payment
+699,Product C,Female,Location 47,Region 3,16300,29/12/2016,05:30:58,1000,Finished Payment
+700,Product D,Female,Location 21,Region 3,20950,31/03/2017,12:50:36,2200,Finished Payment
+701,Product B,Male,Location 13,Region 2,17300,17/06/2018,19:48:39,2200,Finished Payment
+702,Product C,Male,Location 3,Region 1,16300,11/03/2017,21:42:37,1000,Finished Payment
+703,Product B,Male,Location 70,Region 2,17300,10/02/2019,04:56:28,2200,Finished Payment
+704,Product A,Male,Location 350,Region 2,22950,10/08/2019,23:39:32,5000,Finished Payment
+705,Product D,NotSpecified,Location 61,Region 6,20950,10/06/2017,01:40:43,2200,Finished Payment
+706,Product B,Male,Location 25,Region 3,17300,14/12/2018,04:29:44,2200,Finished Payment
+707,Product B,Female,Location 19,Region 4,17300,24/04/2019,05:29:27,2200,Finished Payment
+708,Product B,Male,Location 350,Region 6,17300,07/09/2018,16:10:32,2200,Finished Payment
+709,Product C,Male,Location 58,Region 2,16300,22/12/2016,21:05:21,1000,Finished Payment
+710,Product D,Male,Location 3,Region 2,20950,12/07/2017,01:48:53,2200,Finished Payment
+711,Product D,Female,Location 63,Region 10,20950,26/10/2017,00:53:21,2200,Finished Payment
+712,Product B,Male,Location 39,Region 5,17300,25/05/2018,18:28:30,2200,Finished Payment
+713,Product A,Female,Location 512,Region 4,22950,21/02/2020,22:51:15,5000,Finished Payment
+714,Product A,Female,Location 336,Region 6,22950,15/01/2020,04:33:00,5000,Finished Payment
+715,Product C,Male,Location 403,Region 6,16300,06/05/2017,12:30:03,1000,Finished Payment
+716,Product C,Male,Location 421,Region 5,16300,04/06/2016,01:39:14,1000,Finished Payment
+717,Product D,Male,Location 10,Region 6,20950,21/09/2017,21:29:35,2200,Finished Payment
+718,Product B,Male,Location 30,Region 6,17300,30/03/2019,11:16:19,2200,Finished Payment
+719,Product A,Male,Location 259,Region 7,22950,11/08/2019,15:51:41,5000,Finished Payment
+720,Product A,Male,Location 350,Region 3,22950,05/10/2019,18:43:04,5000,Finished Payment
+721,Product E,Female,Location 436,Region 3,55325,27/02/2020,02:12:30,8000,Finished Payment
+722,Product A,Female,Location 53,Region 6,22950,19/05/2019,07:38:10,5000,Finished Payment
+723,Product A,Male,Location 2,Region 7,21450,11/09/2019,08:51:28,3000,Finished Payment
+724,Product B,Male,Location 227,Region 4,17300,14/03/2018,08:14:53,2200,Finished Payment
+725,Product C,Female,Location 91,Region 6,16300,19/03/2016,05:32:40,1000,Finished Payment
+726,Product C,Male,Location 17,Region 5,16300,05/06/2016,10:17:48,1000,Finished Payment
+727,Product B,Male,Location 86,Region 6,17300,03/11/2018,19:36:25,2200,Finished Payment
+728,Product B,Male,Location 84,Region 3,17300,10/06/2018,01:32:09,2200,Finished Payment
+729,Product B,Male,Location 17,Region 3,17300,02/04/2019,07:07:10,2200,Finished Payment
+730,Product B,Male,Location 88,Region 6,17300,30/05/2018,10:27:26,2200,Finished Payment
+731,Product D,Male,Location 210,Region 2,,03/05/2017,05:20:29,2200,Finished Payment
+732,Product B,Male,Location 13,Region 6,17300,24/03/2019,09:54:41,2200,Finished Payment
+733,Product D,Female,Location 8,Region 5,20950,18/05/2017,06:51:57,2200,Finished Payment
+734,Product B,Male,Location 73,Region 1,17300,23/04/2019,04:21:18,2200,Finished Payment
+735,Product C,Female,Location 70,Region 6,16300,12/01/2017,23:10:18,1000,Finished Payment
+736,Product B,Female,Location 57,Region 6,17300,27/01/2018,13:23:53,2200,Finished Payment
+737,Product D,Male,Location 468,Region 4,20950,15/12/2017,15:22:10,2200,Finished Payment
+738,Product A,NotSpecified,Location 464,Region 6,22950,25/08/2019,04:54:42,5000,Finished Payment
+739,Product A,Male,Location 12,Region 3,22950,07/07/2019,08:31:11,5000,Finished Payment
+740,Product C,NotSpecified,Location 57,Region 1,16300,22/10/2016,14:03:10,1000,Finished Payment
+741,Product D,Male,Location 26,Region 1,20950,02/07/2017,19:16:17,2200,Finished Payment
+742,Product D,Male,Location 39,Region 6,20950,21/12/2017,07:43:15,2200,Finished Payment
+743,Product C,Male,Location 49,Region 4,16300,09/12/2016,13:33:16,1000,Finished Payment
+744,Product D,Male,Location 38,Region 3,20950,24/08/2017,07:16:01,2200,Finished Payment
+745,Product B,Male,Location 49,Region 6,17300,30/06/2018,20:25:08,2200,Finished Payment
+746,Product C,Male,Location 19,Region 6,16300,09/02/2017,03:03:15,1000,Finished Payment
+747,Product A,Female,Location 22,Region 3,22950,14/06/2019,14:24:52,5000,Finished Payment
+748,Product A,Female,Location 46,Region 2,21450,20/09/2019,21:14:38,3000,Finished Payment
+749,Product D,Male,Location 26,Region 1,20950,08/07/2017,04:08:07,2200,Finished Payment
+750,Product B,Male,Location 19,Region 6,17300,17/04/2019,21:04:20,2200,Finished Payment
+751,Product D,Female,Location 11,Region 2,20950,16/11/2017,07:19:27,2200,Finished Payment
+752,Product C,Female,Location 23,Region 6,16300,24/02/2017,23:12:22,1000,Finished Payment
+753,Product C,Female,Location 22,Region 1,16300,26/02/2017,02:48:13,1000,
+754,Product A,Male,Location 350,Region 6,22950,15/10/2019,16:02:13,5000,Finished Payment
+755,Product A,Male,Location 23,Region 2,22950,07/03/2020,22:43:18,5000,Finished Payment
+756,Product B,Male,Location 3,Region 4,17300,08/08/2018,00:48:29,2200,Finished Payment
+757,Product B,Male,Location 47,Region 6,17300,02/02/2019,07:38:51,2200,Finished Payment
+758,Product A,Male,Location 98,Region 6,22950,26/07/2019,08:01:43,5000,Finished Payment
+759,Product B,Male,Location 63,Region 6,17300,27/03/2019,08:35:14,2200,Finished Payment
+760,Product B,Male,Location 102,Region 4,17300,27/07/2018,14:12:15,2200,Finished Payment
+761,Product B,Female,Location 26,Region 7,17300,27/06/2018,14:54:20,2200,Finished Payment
+762,Product A,Male,Location 325,Region 6,19950,18/03/2020,07:54:29,1000,Finished Payment
+763,Product B,Female,Location 41,Region 3,17300,21/10/2018,15:40:25,2200,Finished Payment
+764,Product A,NotSpecified,Location 267,Region 3,22950,08/06/2019,00:45:22,5000,Finished Payment
+765,Product A,Male,Location 3,Region 6,22950,03/06/2019,19:37:17,5000,Finished Payment
+766,Product D,Male,Location 151,Region 1,20950,24/10/2017,11:35:59,2200,Finished Payment
+767,Product B,Male,Location 88,Region 2,17300,21/12/2018,22:51:51,2200,Finished Payment
+768,Product A,Female,Location 173,Region 6,22950,20/09/2019,11:18:10,5000,Finished Payment
+769,Product D,NotSpecified,Location 40,Region 6,20950,12/04/2017,20:04:22,2200,Finished Payment
+770,Product A,Male,Location 34,Region 6,22950,23/07/2019,23:10:36,5000,Finished Payment
+771,Product B,Female,Location 617,Region 3,,15/05/2019,05:23:20,2200,Finished Payment
+772,Product B,Male,Location 35,Region 6,17300,10/04/2018,09:57:49,2200,Finished Payment
+773,Product A,Male,Location 25,Region 6,22950,22/05/2020,08:13:25,5000,Finished Payment
+774,Product A,Female,Location 135,Region 6,22950,21/06/2019,23:06:08,5000,Finished Payment
+775,Product B,Male,Location 49,Region 4,17300,04/09/2018,00:45:01,2200,Finished Payment
+776,Product D,Male,Location 53,Region 6,20950,10/06/2017,01:15:18,2200,Finished Payment
+777,Product B,Female,Location 86,Region 6,17300,01/05/2019,03:16:33,2200,Finished Payment
+778,Product C,Male,Location 70,Region 6,16300,30/12/2016,10:55:50,1000,Finished Payment
+779,Product B,Male,Location 141,Region 2,17300,28/12/2018,07:04:26,2200,Finished Payment
+780,Product B,Male,Location 39,Region 3,17300,18/08/2018,08:58:34,2200,Finished Payment
+781,Product A,Female,Location 30,Region 1,21450,23/09/2019,19:24:29,3000,Finished Payment
+782,Product D,Male,Location 61,Region 3,20950,11/01/2018,06:36:09,2200,Finished Payment
+783,Product C,Female,Location 23,Region 1,16300,13/08/2016,09:52:36,1000,Finished Payment
+784,Product A,Female,Location 144,Region 6,22950,31/05/2019,14:17:34,5000,Finished Payment
+785,Product B,Female,Location 4,Region 6,17300,01/02/2019,22:25:10,2200,Finished Payment
+786,Product C,Female,Location 23,Region 3,16300,18/02/2017,12:36:06,1000,Finished Payment
+787,Product B,Male,Location 3,Region 2,17300,10/04/2019,13:06:45,2200,Finished Payment
+788,Product D,Male,Location 27,Region 1,20950,14/06/2017,22:26:37,2200,Finished Payment
+789,Product B,Female,Location 38,Region 3,17300,14/01/2019,13:59:29,2200,Finished Payment
+790,Product B,NotSpecified,Location 421,Region 2,17300,19/01/2019,05:30:58,2200,Finished Payment
+791,Product C,Male,Location 300,Region 6,16300,06/09/2016,12:50:36,1000,Finished Payment
+792,Product C,Male,Location 142,Region 1,16300,28/09/2016,19:48:39,1000,Finished Payment
+793,Product A,Male,Location 11,Region 6,22950,01/09/2019,21:42:37,5000,Finished Payment
+794,Product D,Female,Location 79,Region 1,20950,01/05/2017,04:56:28,2200,Finished Payment
+795,Product B,Female,Location 46,Region 3,17300,17/03/2019,23:39:32,2200,Finished Payment
+796,Product C,NotSpecified,Location 216,Region 6,16300,14/03/2017,01:40:43,1000,Finished Payment
+797,Product B,Male,Location 84,Region 6,17300,23/04/2019,04:29:44,2200,Finished Payment
+798,Product B,Female,Location 67,Region 2,17300,30/04/2019,05:29:27,2200,Finished Payment
+799,Product D,Male,Location 282,Region 6,20950,15/11/2017,16:10:32,2200,Finished Payment
+800,Product B,Male,Location 127,Region 6,17300,24/05/2018,21:05:21,2200,Finished Payment
+801,Product A,Male,Location 140,Region 3,19950,07/01/2020,01:48:53,1000,Finished Payment
+802,Product D,Male,Location 53,Region 6,20950,02/04/2017,00:53:21,2200,Finished Payment
+803,Product A,Male,Location 58,Region 6,22950,14/07/2019,18:28:30,5000,Finished Payment
+804,Product B,Female,Location 84,Region 3,17300,08/10/2018,22:51:15,2200,Finished Payment
+805,Product A,Male,Location 25,Region 6,20950,02/08/2017,04:33:00,2200,Finished Payment
+806,Product D,Male,Location 506,Region 6,22950,15/08/2019,12:30:03,5000,Finished Payment
+807,Product B,Male,Location 18,Region 6,17300,31/03/2018,01:39:14,2200,Finished Payment
+808,Product A,Male,Location 647,Region 3,17300,28/01/2018,21:29:35,2200,Finished Payment
+809,Product A,Male,Location 153,Region 4,17300,02/03/2019,11:16:19,2200,Finished Payment
+810,Product B,Female,Location 4,Region 1,16300,04/12/2016,15:51:41,1000,Finished Payment
+811,Product B,NotSpecified,Location 6,Region 3,17300,06/10/2018,22:51:51,2200,Finished Payment
+812,Product A,Male,Location 32,Region 12,17300,25/01/2018,11:18:10,2200,Finished Payment
+813,Product A,Male,Location 266,Region 1,20950,26/10/2017,20:04:22,2200,Finished Payment
+814,Product A,Male,Location 402,Region 17,20950,18/07/2017,23:10:36,2200,Finished Payment
+815,Product B,Female,Location 266,Region 3,17300,19/01/2019,05:23:20,2200,Finished Payment
+816,Product E,Male,Location 26,Region 2,16300,01/03/2017,09:57:49,1000,Finished Payment
+817,Product B,Male,Location 48,Region 13,14475,28/04/2018,08:13:25,1000,Finished Payment
+818,Product A,Female,Location 315,Region 1,16300,11/02/2017,23:06:08,1000,Finished Payment
+819,Product B,NotSpecified,Location 47,Region 4,20950,23/03/2017,00:45:01,2200,Finished Payment
+820,Product D,Male,Location 25,Region 1,17300,09/04/2018,01:15:18,2200,Finished Payment
+821,Product A,Female,Location 27,Region 6,,23/06/2017,03:16:33,2200,Finished Payment
+822,Product C,Male,Location 3,Region 7,22950,04/08/2019,10:55:50,5000,Finished Payment
+823,Product D,Male,Location 26,Region 6,17300,17/05/2019,07:04:26,2200,
+824,Product B,Male,Location 39,Region 1,20950,22/04/2017,08:58:34,2200,
+825,Product E,Male,Location 3,Region 6,16300,26/01/2017,19:24:29,1000,Finished Payment
+826,Product B,Male,Location 38,Region 6,16300,25/12/2016,06:36:09,1000,Finished Payment
+827,Product B,NotSpecified,Location 67,Region 6,22950,23/05/2019,09:52:36,5000,Finished Payment
+828,Product A,Male,Location 41,Region 3,22950,15/12/2019,14:17:34,5000,Finished Payment
+829,Product A,Male,Location 46,Region 2,17300,26/07/2018,22:25:10,2200,Finished Payment
+830,Product A,Male,Location 144,Region 3,17300,10/02/2019,12:36:06,2200,Finished Payment
+831,Product A,Male,Location 239,Region 3,20950,17/10/2017,13:06:45,2200,Finished Payment
+832,Product A,Male,Location 418,Region 1,20950,10/09/2017,22:26:37,2200,Finished Payment
+833,Product C,Female,Location 11,Region 7,17300,04/02/2019,13:59:29,2200,Finished Payment
+834,Product A,Male,Location 3,Region 2,17300,03/01/2019,05:30:58,2200,
+835,Product C,NotSpecified,Location 25,Region 6,22950,04/09/2019,12:50:36,5000,Finished Payment
+836,Product B,Female,Location 37,Region 6,16300,12/01/2017,19:48:39,1000,Finished Payment
+837,Product A,Male,Location 13,Region 6,22950,10/06/2020,21:42:37,5000,Finished Payment
+838,Product A,NotSpecified,Location 30,Region 4,17300,15/04/2018,04:56:28,2200,Finished Payment
+839,Product B,Male,Location 8,Region 6,16300,11/02/2017,23:39:32,1000,Finished Payment
+840,Product A,Female,Location 26,Region 6,20950,17/05/2017,01:40:43,2200,Finished Payment
+841,Product A,Female,Location 18,Region 2,,16/06/2018,04:29:44,2200,Finished Payment
+842,Product B,Male,Location 9,Region 1,17300,29/04/2018,05:29:27,2200,Finished Payment
+843,Product B,Male,Location 54,Region 3,20950,20/12/2017,16:10:32,2200,Finished Payment
+844,Product B,Male,Location 468,Region 9,20950,10/09/2017,21:05:21,2200,Finished Payment
+845,Product A,Male,Location 50,Region 1,20950,06/05/2017,01:48:53,2200,Finished Payment
+846,Product A,Male,Location 73,Region 6,17300,14/01/2019,00:53:21,2200,Finished Payment
+847,Product B,Male,Location 34,Region 6,19950,05/10/2019,18:28:30,1000,Finished Payment
+848,Product B,Male,Location 40,Region 2,16300,05/08/2016,22:51:15,1000,Finished Payment
+849,Product A,Male,Location 30,Region 1,16300,17/06/2016,04:33:00,1000,Finished Payment
+850,Product A,Male,Location 28,Region 6,16300,14/08/2016,12:30:03,1000,Finished Payment
+851,Product B,Female,Location 137,Region 6,17300,06/02/2019,01:39:14,2200,Finished Payment
+852,Product D,Male,Location 44,Region 6,20950,11/04/2017,21:29:35,2200,Finished Payment
+853,Product A,Male,Location 91,Region 6,22950,30/05/2019,11:16:19,5000,Finished Payment
+854,Product C,Female,Location 73,Region 2,20950,13/09/2017,15:51:41,2200,Finished Payment
+855,Product B,Female,Location 74,Region 6,16300,17/01/2017,22:51:51,1000,Finished Payment
+856,Product B,NotSpecified,Location 477,Region 6,16300,23/12/2016,11:18:10,1000,Finished Payment
+857,Product E,Male,Location 586,Region 6,22950,27/08/2019,20:04:22,5000,Finished Payment
+858,Product A,Male,Location 186,Region 2,16300,16/12/2016,23:10:36,1000,Finished Payment
+859,Product B,Male,Location 472,Region 6,17300,23/10/2018,05:23:20,2200,Finished Payment
+860,Product B,Male,Location 374,Region 6,17300,08/04/2018,09:57:49,2200,Finished Payment
+861,Product A,Female,Location 75,Region 6,22950,21/11/2019,08:13:25,5000,Finished Payment
+862,Product A,Male,Location 19,Region 4,22950,16/10/2019,23:06:08,5000,Finished Payment
+863,Product B,Male,Location 87,Region 6,17300,07/03/2019,00:45:01,2200,Finished Payment
+864,Product A,Female,Location 13,Region 4,22950,04/03/2020,01:15:18,5000,Finished Payment
+865,Product B,Male,Location 17,Region 3,17300,03/04/2019,03:16:33,2200,Finished Payment
+866,Product B,Male,Location 458,Region 2,17300,14/05/2019,10:55:50,2200,Finished Payment
+867,Product D,Male,Location 180,Region 1,20950,24/06/2017,07:04:26,2200,Finished Payment
+868,Product B,Male,Location 23,Region 2,17300,18/05/2018,08:58:34,2200,Finished Payment
+869,Product A,Male,Location 8,Region 4,22950,22/04/2020,19:24:29,5000,Finished Payment
+870,Product B,Female,Location 160,Region 6,17300,13/11/2018,06:36:09,2200,Finished Payment
+871,Product A,Male,Location 547,Region 3,22950,27/07/2019,09:52:36,5000,Finished Payment
+872,Product C,Male,Location 11,Region 2,16300,06/08/2016,14:17:34,1000,Finished Payment
+873,Product B,Female,Location 61,Region 2,17300,15/02/2019,22:25:10,2200,Finished Payment
+874,Product B,Female,Location 25,Region 3,17300,22/11/2018,12:36:06,2200,Finished Payment
+875,Product B,Female,Location 149,Region 6,17300,09/10/2018,13:06:45,2200,Finished Payment
+876,Product C,Male,Location 653,Region 8,16300,01/03/2017,22:26:37,1000,Finished Payment
+877,Product D,NotSpecified,Location 91,Region 2,20950,28/11/2017,13:59:29,2200,Finished Payment
+878,Product A,Female,Location 30,Region 2,22950,31/10/2019,05:30:58,5000,Finished Payment
+879,Product C,Male,Location 26,Region 2,16300,08/07/2016,12:50:36,1000,Finished Payment
+880,Product B,Female,Location 203,Region 3,17300,31/01/2019,19:48:39,2200,Finished Payment
+881,Product A,Male,Location 73,Region 6,,02/02/2020,21:42:37,5000,Finished Payment
+882,Product B,Male,Location 3,Region 6,17300,14/03/2018,04:56:28,2200,Finished Payment
+883,Product C,Male,Location 16,Region 7,16300,03/01/2017,23:39:32,1000,Finished Payment
+884,Product C,Male,Location 27,Region 5,16300,01/05/2016,01:40:43,1000,
+885,Product B,NotSpecified,Location 1,Region 2,17300,29/09/2018,04:29:44,2200,Finished Payment
+886,Product B,Male,Location 612,Region 2,17300,27/05/2018,05:29:27,2200,Finished Payment
+887,Product D,Male,Location 122,Region 6,20950,14/10/2017,16:10:32,2200,Finished Payment
+888,Product C,Male,Location 44,Region 6,16300,10/12/2016,21:05:21,1000,Finished Payment
+889,Product D,Female,Location 505,Region 2,20950,17/11/2017,01:48:53,2200,Finished Payment
+890,Product B,Male,Location 114,Region 2,17300,29/04/2018,00:53:21,2200,Finished Payment
+891,Product B,Female,Location 111,Region 3,17300,01/01/2019,18:28:30,2200,Finished Payment
+892,Product B,Female,Location 23,Region 2,17300,30/11/2018,22:51:15,2200,Finished Payment
+893,Product A,Male,Location 197,Region 3,22950,23/02/2020,04:33:00,5000,Finished Payment
+894,Product D,Male,Location 631,Region 1,20950,11/10/2017,12:30:03,2200,Finished Payment
+895,Product A,Male,Location 42,Region 2,22950,11/11/2019,01:39:14,5000,Finished Payment
+896,Product B,Male,Location 117,Region 2,17300,10/02/2018,21:29:35,2200,Finished Payment
+897,Product A,Female,Location 58,Region 3,22950,04/07/2019,11:16:19,5000,Finished Payment
+898,Product B,Male,Location 84,Region 3,17300,13/01/2019,15:51:41,2200,Finished Payment
+899,Product A,Female,Location 218,Region 6,22950,29/09/2019,22:51:51,5000,Finished Payment
+900,Product D,Female,Location 299,Region 10,20950,04/11/2017,11:18:10,2200,Finished Payment
+901,Product A,Male,Location 65,Region 6,22950,08/02/2020,20:04:22,5000,Finished Payment
+902,Product A,Male,Location 342,Region 2,22950,31/07/2019,23:10:36,5000,Finished Payment
+903,Product A,Male,Location 46,Region 2,22950,01/09/2019,05:23:20,5000,Finished Payment
+904,Product D,Male,Location 155,Region 6,20950,26/10/2017,09:57:49,2200,Finished Payment
+905,Product A,Male,Location 10,Region 3,19950,07/11/2019,08:13:25,1000,Finished Payment
+906,Product B,NotSpecified,Location 39,Region 6,17300,12/04/2018,23:06:08,2200,Finished Payment
+907,Product B,Male,Location 53,Region 2,17300,17/12/2018,00:45:01,2200,Finished Payment
+908,Product A,Male,Location 9,Region 2,22950,14/07/2019,01:15:18,5000,Finished Payment
+909,Product C,Male,Location 6,Region 2,16300,09/01/2016,03:16:33,1000,Finished Payment
+910,Product A,Female,Location 3,Region 6,22950,26/06/2019,10:55:50,5000,Finished Payment
+911,Product D,Female,Location 135,Region 1,,10/07/2017,07:04:26,2200,Finished Payment
+912,Product C,Male,Location 45,Region 1,16300,24/09/2016,08:58:34,1000,Finished Payment
+913,Product E,Female,Location 10,Region 6,55325,12/02/2020,19:24:29,8000,Finished Payment
+914,Product D,Male,Location 21,Region 5,20950,21/11/2017,06:36:09,2200,Finished Payment
+915,Product C,Female,Location 38,Region 1,16300,16/12/2016,09:52:36,1000,Finished Payment
+916,Product A,Female,Location 511,Region 3,20950,29/07/2020,14:17:34,2200,Finished Payment
+917,Product A,Male,Location 353,Region 2,22950,23/07/2019,22:25:10,5000,Finished Payment
+918,Product B,Female,Location 461,Region 3,17300,30/03/2019,12:36:06,2200,Finished Payment
+919,Product D,Male,Location 34,Region 15,20950,22/09/2017,13:06:45,2200,Finished Payment
+920,Product A,Male,Location 25,Region 1,22950,13/07/2019,22:26:37,5000,Finished Payment
+921,Product C,NotSpecified,Location 11,Region 8,16300,24/02/2016,13:59:29,1000,Finished Payment
+922,Product D,Female,Location 145,Region 1,20950,18/08/2017,05:30:58,2200,Finished Payment
+923,Product B,Male,Location 10,Region 6,17300,23/07/2018,12:50:36,2200,Finished Payment
+924,Product D,Male,Location 6,Region 6,20950,06/12/2017,19:48:39,2200,Finished Payment
+925,Product B,Male,Location 57,Region 3,17300,30/10/2018,21:42:37,2200,Finished Payment
+926,Product C,Male,Location 61,Region 5,16300,25/05/2016,04:56:28,1000,Finished Payment
+927,Product D,Male,Location 25,Region 2,20950,26/11/2017,23:39:32,2200,Finished Payment
+928,Product A,Male,Location 18,Region 3,22950,14/09/2019,01:40:43,5000,Finished Payment
+929,Product B,Female,Location 159,Region 2,17300,18/02/2019,04:29:44,2200,Finished Payment
+930,Product B,Male,Location 82,Region 7,17300,29/03/2019,05:29:27,2200,Finished Payment
+931,Product B,Male,Location 22,Region 4,17300,11/12/2018,16:10:32,2200,Finished Payment
+932,Product D,Male,Location 22,Region 15,20950,26/10/2017,21:05:21,2200,Finished Payment
+933,Product B,NotSpecified,Location 17,Region 6,17300,25/04/2018,01:48:53,2200,Finished Payment
+934,Product D,Male,Location 244,Region 6,20950,16/07/2017,00:53:21,2200,
+935,Product C,Male,Location 218,Region 1,22950,29/04/2020,18:28:30,5000,Finished Payment
+936,Product B,Female,Location 21,Region 3,17300,15/07/2018,22:51:15,2200,Finished Payment
+937,Product B,Male,Location 207,Region 3,22950,07/06/2019,04:33:00,5000,Finished Payment
+938,Product A,Male,Location 94,Region 1,16300,18/11/2016,12:30:03,1000,Finished Payment
+939,Product A,Male,Location 597,Region 7,17300,28/04/2019,01:39:14,2200,Finished Payment
+940,Product A,Female,Location 28,Region 7,19950,09/02/2020,21:29:35,1000,Finished Payment
+941,Product A,Male,Location 6,Region 6,17300,27/05/2018,11:16:19,2200,Finished Payment
+942,Product D,Female,Location 34,Region 9,20950,28/10/2017,15:51:41,2200,Finished Payment
+943,Product D,NotSpecified,Location 105,Region 5,20950,20/09/2017,22:51:51,2200,
+944,Product D,Female,Location 6,Region 3,17300,07/05/2019,11:18:10,2200,Finished Payment
+945,Product A,Male,Location 199,Region 6,17300,23/04/2019,20:04:22,2200,Finished Payment
+946,Product B,Female,Location 135,Region 3,17300,02/05/2019,23:10:36,2200,Finished Payment
+947,Product A,Male,Location 10,Region 3,17300,26/01/2019,05:23:20,2200,Finished Payment
+948,Product D,Male,Location 61,Region 1,17300,29/05/2018,09:57:49,2200,Finished Payment
+949,Product B,Female,Location 353,Region 3,17300,02/10/2018,08:13:25,2200,Finished Payment
+950,Product A,Male,Location 6,Region 1,22950,29/05/2019,23:06:08,5000,Finished Payment
+951,Product A,Male,Location 17,Region 2,17300,17/09/2018,00:45:01,2200,Finished Payment
+952,Product B,Male,Location 187,Region 3,17300,28/01/2019,01:15:18,2200,Finished Payment
+953,Product A,Female,Location 22,Region 1,22950,01/07/2020,03:16:33,5000,Finished Payment
+954,Product B,NotSpecified,Location 208,Region 1,55325,31/01/2020,10:55:50,8000,Finished Payment
+955,Product A,Male,Location 146,Region 2,17300,24/07/2018,07:04:26,2200,Finished Payment
+956,Product D,Male,Location 82,Region 1,16300,14/10/2016,08:58:34,1000,Finished Payment
+957,Product B,Female,Location 210,Region 6,22950,05/03/2020,19:24:29,5000,Finished Payment
+958,Product B,Female,Location 19,Region 6,16300,20/11/2016,06:36:09,1000,Finished Payment
+959,Product A,Male,Location 352,Region 3,17300,20/01/2019,09:52:36,2200,Finished Payment
+960,Product B,Male,Location 47,Region 3,17300,07/11/2018,14:17:34,2200,Finished Payment
+961,Product B,Male,Location 91,Region 1,,29/09/2017,22:25:10,2200,Finished Payment
+962,Product A,Male,Location 50,Region 2,17300,03/06/2018,12:36:06,2200,Finished Payment
+963,Product A,Female,Location 533,Region 2,20950,14/07/2020,13:06:45,2200,Finished Payment
+964,Product B,Male,Location 48,Region 3,17300,12/05/2018,22:26:37,2200,Finished Payment
+965,Product B,Male,Location 56,Region 6,17300,07/02/2019,13:59:29,2200,Finished Payment
+966,Product A,Female,Location 24,Region 6,22950,22/03/2020,05:30:58,5000,Finished Payment
+967,Product B,Male,Location 49,Region 3,17300,20/02/2019,12:50:36,2200,Finished Payment
+968,Product A,Male,Location 114,Region 3,17300,07/06/2018,19:48:39,2200,Finished Payment
+969,Product A,Female,Location 11,Region 6,20950,05/10/2017,21:42:37,2200,Finished Payment
+970,Product B,Male,Location 113,Region 6,20950,12/01/2018,04:56:28,2200,Finished Payment
+971,Product B,Male,Location 63,Region 6,16300,01/10/2016,23:39:32,1000,Finished Payment
+972,Product A,Male,Location 9,Region 2,16300,21/07/2016,01:40:43,1000,Finished Payment
+973,Product B,Male,Location 6,Region 2,22950,17/07/2019,04:29:44,5000,Finished Payment
+974,Product A,Male,Location 384,Region 6,22950,23/07/2019,05:29:27,5000,Finished Payment
+975,Product B,Female,Location 29,Region 6,17300,29/03/2019,16:10:32,2200,Finished Payment
+976,Product C,Male,Location 25,Region 6,16300,06/07/2016,21:05:21,1000,Finished Payment
+977,Product B,Male,Location 80,Region 2,20950,12/01/2018,01:48:53,2200,Finished Payment
+978,Product D,Female,Location 62,Region 6,16300,29/09/2016,00:53:21,1000,Finished Payment
+979,Product B,Female,Location 41,Region 6,55325,07/07/2020,18:28:30,8000,Finished Payment
+980,Product A,Male,Location 113,Region 6,20950,15/04/2017,22:51:15,2200,Finished Payment
+981,Product A,Female,Location 111,Region 6,17300,11/01/2019,04:33:00,2200,Finished Payment
+982,Product A,Female,Location 53,Region 6,20950,01/05/2017,12:30:03,2200,Finished Payment
+983,Product C,Male,Location 44,Region 3,,08/11/2018,01:39:14,2200,Finished Payment
+984,Product A,Male,Location 94,Region 6,20950,13/04/2017,21:29:35,2200,Finished Payment
+985,Product A,Male,Location 171,Region 3,17300,02/10/2018,11:16:19,2200,Finished Payment
+986,Product B,NotSpecified,Location 464,Region 6,17300,25/04/2018,15:51:41,2200,Finished Payment
+987,Product D,Male,Location 22,Region 3,17300,10/05/2018,22:51:51,2200,Finished Payment
+988,Product B,Male,Location 26,Region 4,17300,05/05/2018,11:18:10,2200,Finished Payment
+989,Product B,NotSpecified,Location 143,Region 3,20950,25/10/2017,20:04:22,2200,Finished Payment
+990,Product A,Male,Location 353,Region 6,17300,25/07/2018,23:10:36,2200,Finished Payment
+991,Product A,Male,Location 60,Region 5,17300,25/08/2018,05:23:20,2200,Finished Payment
+992,Product B,Male,Location 44,Region 17,17300,06/02/2018,09:57:49,2200,Finished Payment
+993,Product B,Female,Location 58,Region 1,16300,26/11/2016,08:13:25,1000,Finished Payment
+994,Product B,Male,Location 39,Region 6,16300,02/04/2016,23:06:08,1000,Finished Payment
+995,Product C,Male,Location 350,Region 2,17300,13/02/2018,00:45:01,2200,Finished Payment
+996,Product B,NotSpecified,Location 45,Region 2,16300,07/01/2017,01:15:18,1000,Finished Payment
+997,Product C,Male,Location 29,Region 6,22950,13/09/2019,03:16:33,5000,Finished Payment
+998,Product A,Male,Location 106,Region 7,17300,18/07/2018,10:55:50,2200,Finished Payment
+999,Product D,Female,Location 53,Region 1,17300,01/03/2018,07:04:26,2200,Finished Payment
+1000,Product B,Male,Location 3,Region 6,17300,20/10/2018,08:58:34,2200,Finished Payment
+1001,Product D,Female,Location 73,Region 2,22950,21/08/2019,19:24:29,5000,Finished Payment
+1002,Product A,Male,Location 29,Region 6,16300,05/04/2017,06:36:09,1000,
+1003,Product C,Female,Location 86,Region 2,17300,01/10/2018,09:52:36,2200,Finished Payment
+1004,Product B,Male,Location 62,Region 2,16300,21/06/2016,14:17:34,1000,Finished Payment
+1005,Product B,Male,Location 61,Region 1,20950,12/12/2017,22:25:10,2200,Finished Payment
+1006,Product B,Male,Location 197,Region 6,17300,01/05/2018,12:36:06,2200,Finished Payment
+1007,Product C,NotSpecified,Location 91,Region 1,17300,01/03/2019,13:06:45,2200,Finished Payment
+1008,Product B,Male,Location 111,Region 3,17300,29/06/2018,22:26:37,2200,Finished Payment
+1009,Product C,Male,Location 13,Region 2,20950,20/07/2017,13:59:29,2200,Finished Payment
+1010,Product A,Male,Location 22,Region 1,20950,18/11/2017,05:30:58,2200,Finished Payment
+1011,Product A,Male,Location 10,Region 1,20950,11/01/2018,12:50:36,2200,Finished Payment
+1012,Product A,Male,Location 50,Region 2,20950,18/04/2017,19:48:39,2200,Finished Payment
+1013,Product A,NotSpecified,Location 143,Region 2,22950,11/09/2019,21:42:37,5000,Finished Payment
+1014,Product A,Male,Location 44,Region 6,16300,18/09/2016,04:56:28,1000,Finished Payment
+1015,Product B,Male,Location 46,Region 4,22950,04/06/2019,23:39:32,5000,Finished Payment
+1016,Product A,Female,Location 69,Region 5,16300,24/12/2016,01:40:43,1000,Finished Payment
+1017,Product E,Male,Location 44,Region 5,17300,27/07/2018,04:29:44,2200,Finished Payment
+1018,Product E,Female,Location 23,Region 7,17300,10/05/2019,05:29:27,2200,Finished Payment
+1019,Product B,Male,Location 8,Region 3,16300,21/02/2017,16:10:32,1000,Finished Payment
+1020,Product A,Male,Location 57,Region 2,55325,06/02/2020,21:05:21,8000,Finished Payment
+1021,Product A,Male,Location 576,Region 6,,04/02/2017,01:48:53,1000,Finished Payment
+1022,Product A,Male,Location 6,Region 4,16300,07/12/2016,00:53:21,1000,Finished Payment
+1023,Product A,Male,Location 25,Region 1,16300,01/02/2017,18:28:30,1000,Finished Payment
+1024,Product C,Male,Location 22,Region 3,17300,09/04/2019,22:51:15,2200,Finished Payment
+1025,Product A,Male,Location 47,Region 3,17300,07/03/2019,04:33:00,2200,Finished Payment
+1026,Product B,Female,Location 84,Region 6,16300,25/09/2016,12:30:03,1000,Finished Payment
+1027,Product A,Female,Location 139,Region 1,17300,27/03/2019,01:39:14,2200,Finished Payment
+1028,Product D,Male,Location 113,Region 4,20950,23/03/2017,21:29:35,2200,Finished Payment
+1029,Product A,NotSpecified,Location 105,Region 5,16300,01/11/2016,11:16:19,1000,Finished Payment
+1030,Product B,Male,Location 2,Region 1,22950,29/03/2020,15:51:41,5000,Finished Payment
+1031,Product A,Female,Location 125,Region 2,22950,31/05/2020,22:51:51,5000,Finished Payment
+1032,Product A,Male,Location 30,Region 5,17300,27/02/2018,11:18:10,2200,Finished Payment
+1033,Product B,Male,Location 19,Region 7,20950,28/04/2017,20:04:22,2200,Finished Payment
+1034,Product D,Male,Location 181,Region 3,55325,18/01/2020,23:10:36,8000,Finished Payment
+1035,Product B,Female,Location 87,Region 6,17300,21/11/2018,05:23:20,2200,Finished Payment
+1036,Product B,Female,Location 30,Region 6,20950,02/05/2017,09:57:49,2200,Finished Payment
+1037,Product D,Male,Location 60,Region 2,17300,17/05/2018,08:13:25,2200,Finished Payment
+1038,Product A,Female,Location 4,Region 6,17300,26/12/2018,23:06:08,2200,Finished Payment
+1039,Product B,Male,Location 73,Region 6,17300,29/12/2018,00:45:01,2200,Finished Payment
+1040,Product A,Male,Location 82,Region 1,,28/03/2018,01:15:18,2200,Finished Payment
+1041,Product A,NotSpecified,Location 11,Region 4,17300,26/04/2018,03:16:33,2200,Finished Payment
+1042,Product B,Female,Location 26,Region 6,16300,25/10/2016,10:55:50,1000,Finished Payment
+1043,Product A,NotSpecified,Location 94,Region 6,17300,15/05/2019,07:04:26,2200,Finished Payment
